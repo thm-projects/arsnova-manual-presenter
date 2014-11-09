@@ -1,0 +1,52 @@
+Title: Zur Ansicht ARSnova Mobile wechseln
+----
+URL-Key: zur-ansicht-arsnova-mobile-wechseln
+----
+Cat: Edit
+----
+Text: Sobald Sie eine Session erstellt haben, können Sie prüfen, wie diese Session für Studenten oder den Dozenten in  ARSnova Mobile aussieht.
+
+**Hilfe zu ARSnova Mobile finden Sie im [ARSnova Handbuch](https://arsnova.eu/manual)**.
+----
+Steps:
+
+1:
+	Subheader: 
+	Action: Wählen Sie im Dropdown-Menü in der Kopfleiste eine Session aus.
+	Details: &rarr; Die Session wird angezeigt.
+
+2:
+	Subheader:  Ansicht als Student/in
+	Action: Um die Session in der Ansicht für Student/innen anzuzeigen, wählen Sie im Dropdown-Menü **Ansicht &rarr; Mobil (Student/in)**. 
+	Details: &rarr; ARSnova Mobile wird in der Rolle Student/in geöffnet. 
+
+3:
+	Subheader:  
+	Action: Die im Presenter ausgewählte Session wird in ARSnova Mobile in der Ansicht Student/in angezeigt. Sie können nun bereits erstellte Fragen ansehen etc.
+	Details: >
+		
+		**Hinweis**:  Je nach Größe des geöffneten Browserfensters wird ARSnova Mobile entweder als Overlay angezeigt, wie hier im Screenshot gezeigt, oder ARSnova Mobile wird in einem neuen Browser-Tab geöffnet.  
+
+4:
+	Subheader:  Ansicht als Dozent/in
+	Action:  Um die Session in der Ansicht für Dozent/innen anzuzeigen, wählen Sie im Dropdown-Menü **Ansicht &rarr; Mobil (Dozent/in)**. 
+	Details: &rarr; ARSnova Mobile wird in der Rolle Dozent/in geöffnet..	
+
+5:
+	Subheader: 
+	Action: Die im Presenter ausgwählte Session wird in ARSnova Mobile in der Ansicht Dozent/in angezeigt. Sie können nun eventuell vorhandene Fragen ansehen etc.
+	Details:>
+	
+	    **Hinweis**:  Je nach Größe des geöffneten Browserfensters wird ARSnova Mobile entweder als Overlay angezeigt, wie hier im Screenshot gezeigt, oder ARSnova Mobile wird in einem neuen Browser-Tab geöffnet.  
+		
+		
+6:
+	Subheader: Zu Presenter zurückkehren
+	Action: Um das Overlay zu schließen, klicken Sie einmal in das Presenterfenster und anschließend in der Kopfleiste das Overlayfensters  auf das "**x**".  Hat sich ein Tab geöffnet, wechseln Sie wieder in den geöffneten Presenter Tab in Ihrem Browser.
+	Details: 	
+
+7:
+	Subheader: 
+	Action: Sie befinden sich wieder in der Session-Ansicht.
+	Details: 		
+			

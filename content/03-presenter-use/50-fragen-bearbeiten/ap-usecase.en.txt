@@ -1,0 +1,43 @@
+Title: Edit questions
+----
+URL-Key: edit-questions
+----
+Cat: Edit
+----
+Steps:
+
+1:
+	Subheader: 
+	Action: Select a session from the dropdown menu in the header bar.
+	Details: &rarr; The session is opened.
+
+2:
+	Subheader: 
+	Action: Click on  **Mode &rarr; Edit**.
+	Details: >
+		&rarr; You are directed to editing mode. 		
+3:
+	Subheader: 
+	Action: In the lecturer pane, click one of tabs **Lecturer questions** or **Preparation Questions** depending on the type of question you want to edit. 
+	Details: &rarr; A list of all available questions is shown.	
+
+4:
+	Subheader: 
+	Action: Click on the question you want to edit.
+	Details:>
+		The question is opened in the audience pane.
+		
+		
+		
+5:
+	Subheader: 
+	Action: Make your changes.
+	Details: >
+		
+		**Note**: The question format cannot be changed.
+
+6:
+	Subheader: 
+	Action: When ready, click **Save**.	
+	Details: &rarr; If the question was saved successfully, a success message is shown.				
+			

@@ -1,0 +1,39 @@
+Title:  Fragen der Studierenden präsentieren/löschen
+----
+URL-Key: fragen-der-studierenden-praesentieren
+----
+Cat: LF
+----
+Steps:
+
+		
+1:
+	Subheader:  Fragen anzeigen
+	Action: Wählen Sie im Dropdown-Menü in der Kopfleiste eine Session aus.
+	Details: &rarr; Die Session wird angezeigt. 
+
+2:
+	Subheader: 
+	Action: Klicken Sie im Publikumsbereich auf den Reiter "Fragen der Studierenden". Wenn der Reiter nicht aktiv ist, wird in Echtzeit die Anzahl neu eingeganger Fragen angezeigt, z.B. "(+1)", wenn 1 neue Frage vorhanden ist.
+	Details:  &rarr; Alle vorhandenen Publikumsfragen werden aufgelistet. 
+		
+3:
+	Subheader:  Frage anzeigen
+	Action: Die Fragen werden nach Eingang sortiert dargestellt. Noch nicht angesehene Fragen werden rot dargestellt. Um eine Frage anzuzeigen, klicken Sie auf die Frage.
+	Details: &rarr; Der Fragetext wird angezeigt.
+			
+4:
+	Subheader:  Frage löschen
+	Action:>
+		Um die Frage zu löschen, sobald Sie sie beantwortet haben, klicken Sie auf das rote "x". **Hinweis**: Sie können Fragen sowohl im ausgeklappten als auch im eingeklappten Status löschen.
+	Details: &rarr; Ein Dialogfeld wird geöffnet.
+
+5:
+	Subheader: 
+	Action: Bestätigen Sie das Löschen der Frage, indem Sie auf **Löschen** klicken.
+	Details: &rarr; Die Frage wird gelöscht.	
+
+6:
+	Subheader: 
+	Action: Die Frage wurde gelöscht.
+	Details:			

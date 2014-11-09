@@ -1,0 +1,51 @@
+Title: Vorbereitungsfragen präsentieren
+----
+URL-Key: vorbereitungsfragen-praesentieren
+----
+Cat: JiTT
+----
+Steps:
+
+
+1:
+	Subheader: 
+	Action: Wählen Sie im Dropdown-Menü **Session** in der Kopfleiste eine Session aus.
+	Details: &rarr; Die Session wird angezeigt.
+
+2:
+	Subheader: 
+	Action: Wählen Sie im Dropdown-Menü **Modus &rarr; Vorbereitung (JiTT)** .
+	Details:>
+		&rarr; Im Dozentenbereich werden nun die Vorbereitungsfragen angezeigt.
+	
+
+		Um mit der zweiten Peer-Instruction Runde zu starten, können Sie nun den Countdown-Timer einschalten, um den Studierenden Zeit zu geben, die Fragen mit ihren Peers zu diskutieren.
+		
+3:
+	Subheader: Countdown-Timer einschalten
+	Action: Klicken Sie auf **Ansicht &rarr; Countdown-Timer**.
+	Details: >
+		&rarr; Das Dialogfeld zum Einstellen des Timers wird geöffnet.
+
+4:
+	Subheader: 
+	Action: Stellen Sie die gewünschte Zeitdauer für den Timer ein und klicken Sie auf **Starten**. 
+	Details: >
+		&rarr; Der Countdown-Timer startet.
+
+5:
+	Subheader: 
+	Action: Der Countdown-Timer wird bildschirmfüllend als Overlay über der Session angezeigt.
+	Details: &rarr; Sobald der Timer abgelaufen ist, beginnt die Anzeige rot zu blinken.
+		
+6:
+	Subheader: 
+	Action: Drücken Sie die ESC-Taste, um das Overlay wieder zu schließen.
+	Details: >
+		Das Overlay wird geschlossen.	
+
+7:
+	Subheader: 
+	Action: Sie befinden sich wieder in der Session-Ansicht.
+	Details: >
+		Als nächstes können Sie nun die Antworten der zweiten Peer-Instruktion Runde präsentieren.	

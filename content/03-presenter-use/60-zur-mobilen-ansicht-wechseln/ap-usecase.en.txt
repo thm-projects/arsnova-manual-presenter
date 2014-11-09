@@ -1,0 +1,52 @@
+Title: Switch to ARSnova Mobile view
+----
+URL-Key: switch-to-arsnova-mobile-view
+----
+Cat: Edit
+----
+Text: Once you have created a session, you can check how it is presented in ARSnova Mobile.
+
+**For help with using ARSnova Mobile, go to   [ARSnova Manual](https://arsnova.eu/manual)**.
+----
+Steps:
+
+1:
+	Subheader: 
+	Action: Select a session from the dropdown menu in the header bar.
+	Details: &rarr; The session is opened.
+
+2:
+	Subheader:  View as Student
+	Action: To open the session in view Student, select **View &rarr Mobile (Student)** from the drop-down menu.
+	Details: &rarr; ARSnova Mobile is opened with role Student. 
+
+3:
+	Subheader:  
+	Action: The session selected in Presenter is shown in ARnova Mobile. You can now view available questions or test the session.
+	Details: >
+		
+		**Note**:  Depending on the size of your browser window, ARSnova Mobile is either presented as an Overlay as shown in the screenshot, or ARSnova Mobile is opened in a new browser tab.  
+
+4:
+	Subheader:  View as Teacher
+	Action: To open the session in view Teacher, select **View &rarr Mobile (Teacher)** from the drop-down menu.
+	Details: &rarr; ARSnova Mobile is opened with role Teacher. 
+
+5:
+	Subheader:  
+	Action: The session selected in Presenter is shown in ARnova Mobile. You can now view available questions or test the session.
+	Details: >
+	
+		**Note**:  Depending on the size of your browser window, ARSnova Mobile is either presented as an Overlay as shown in the screenshot, or ARSnova Mobile is opened in a new browser tab. 
+		
+		
+6:
+	Subheader: Go back to Presenter
+	Action: To close the Overlay, click into the Presenter window once and the click on the **x** in the header bar of the overlay. If a tab was opened, go back to the Presenter tab in your browser.
+	Details: 	
+
+7:
+	Subheader: 
+	Action: You are back in session view.
+	Details: 		
+			

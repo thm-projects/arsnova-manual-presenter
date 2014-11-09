@@ -1,0 +1,48 @@
+Title: Present Live Feedback
+----
+URL-Key: present-live-feedback
+----
+Cat: LF
+----
+Steps:
+
+
+1:
+	Subheader: 
+	Action: Select a session from the dropdown menu in the header bar.
+	Details: &rarr; The session is opened.
+
+2:
+	Subheader: 
+	Action: In the audience pane, the Live-Feedback diagram is shown.
+	Details: >
+		The bar diagram shows the relation between the feedback categories. On the x-axis you see the categories or options, on the y-axis the respective number of evaluations.
+		
+		The feedback options are the following:
+		
+			
+			
+		- I can follow you.
+			
+		- Faster, please.
+			
+		- Slower, please.
+			
+		- You've lost me.
+	
+3:
+	Subheader: 
+	Action: To view Live-Feedback in fullscreen mode, select  **View &rarr; Vollbild &rarr; Feedback** from the drow-down menu in the header bar.
+	Details: &rarr; Live-Feedback is show in fullscreen mode. 
+
+4:
+	Subheader: 
+	Action:	To return into standard view, hit the ESC key or double-click into the window.
+	Details: &rarr; You get back to standard view.
+
+5:
+	Subheader: 
+	Action:	You are back in standard session view.
+	Details: 
+	
+	

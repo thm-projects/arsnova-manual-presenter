@@ -1,0 +1,51 @@
+Title: Present answers to preparation questions
+----
+URL-Key: present-answers-to-preparation-questions
+----
+Cat: JiTT
+----
+Steps:
+
+		
+1:
+	Subheader: 
+	Action: Auf **Hörsaal** (**Vorbereitung**) tippen
+	Details: >
+		&rarr; Sie gelangen zur Ansicht *Hörsaal* (*Vorbereitung*).
+		
+		
+		**Hinweis**: Die Zahl im grauen quadratischen Badge zeigt die Anzahl der Fragen, die Zahl im roten quadratischen Badge die Anzahl aller insgesamt abgegebenen Antworten an.
+2:
+	Subheader: 
+	Action: Auf **Präsentationsmodus** tippen
+	Details: >
+		&rarr; Sie gelangen zur Ansicht der ersten Frage.
+		
+			
+			**Hinweis**: Mit der Wischgeste navigieren Sie zwischen den Fragen und können sich - sofern verfügbar - die Statistik zu jeder Frage ansehen.
+					
+					
+					**Bei Mausbedienung**: Um zwischen den Fragen zu navigieren, klicken Sie in die Ansicht und ziehen Sie mit gedrückter Maustaste nach links oder rechts. Alternativ klicken Sie rechts oder links der Positionspunkte oberhalb der Navigationsleiste.	
+		
+3:
+	Subheader: 
+	Action: Auf **Statistik**-Icon tippen
+	Details:  &rarr; Sie gelangen zur Ansicht *Statistik* der aktuellen Frage.
+		
+4:
+	Subheader: 
+	Action: Wenn fertig, auf **Zurück** tippen
+	Details: &rarr; Sie gelangen zurück zur *Frageansicht*.
+	
+5:
+	Subheader: 
+	Action: Um weitere Fragen zu präsentieren, wischen. Wenn fertig, auf **Zurück** tippen
+	Details: &rarr; Sie gelangen zurück zur Ansicht *Hörsaal* (*Vorbereitung*).		
+6:
+	Subheader: 
+	Action: Auf **Zurück** tippen.
+	Details: &rarr; Sie gelangen zurück zur Ansicht *Start*.
+7:
+	Subheader: 
+	Action: Sie sind zurück in der Ansicht *Start*.
+	Details:

@@ -1,0 +1,110 @@
+Title: Antworten auf Vorbereitungsfragen präsentieren
+----
+URL-Key: antworten-auf-vorbereitungsfragen-praesentieren
+----
+Cat: JiTT
+----
+Steps:
+
+
+1:
+	Subheader: 
+	Action: Wählen Sie im Dropdown-Menü **Session** in der Kopfleiste eine Session aus.
+	Details: &rarr; Die Session wird angezeigt.
+
+2:
+	Subheader: 
+	Action: Wählen Sie im Dropdown-Menü **Modus &rarr; Vorbereitung (JiTT)** .
+	Details: &rarr; Im Dozentenbereich werden nun die Vorbereitungsfragen angezeigt.
+	
+		
+3:
+	Subheader: 
+	Action: Klicken Sie auf eine der Fragen oder auf den Reiter **Anworten**.
+	Details: 	&rarr; Der Reiter Antworten wird geöffnet. Standardmäßig wird **keine** Antwortstatistik angezeigt.
+		
+4:
+	Subheader:  Antworten der ersten PI-Runde
+	Action: Um die Antworten der ersten PI-Runde anzuzeigen, klicken Sie auf **Anzeigen**.  
+	Details: >	
+		&rarr; Die Antwortstatistik zur aktuellen Frage wird angezeigt.
+		
+		
+		
+		**Hinweise**
+		 	
+		 				
+		 				- Mit den Pfeilen können Sie zwischen den Fragen vor und zurück navigieren.
+		 	
+		 				- Nochmaliges Anklicken des Buttons **Anzeigen** blendet die Antworten wieder aus.
+		
+
+5:
+	Subheader: Menü Anzeigen
+	Action: Über das Menü **Anzeigen** können Sie auswählen, wie die Antworten angezeigt werden.
+	Details: >
+		Folgende Optionen sind verfügbar:
+		
+			
+			- **Antworten immer anzeigen**: Legt fest, dass die Antworten aller Fragen jeweils automatisch angezeigt werden. Wenn deaktiviert, müssen Sie zur Anzeige der Antworten für jede Frage erneut auf **Anzeigen** klicken.
+			
+			
+			- **Korrekte Antworten**: Wenn diese Option aktiviert ist, werden die korrekte Antworten grün, falsche Antworten grau dargestellt. 
+
+			
+			- **Vor Diskussion (1st)**: Wenn diese Option aktiviert ist, können die Antworten der ersten PI-Runde  angezeigt werden. Andernfalls werden beim Klicken auf den Button **Anzeigen** die Antworten der ersten PI-Runde nicht angezeigt.
+			
+			
+			- **Vor Diskussion (2nd)**: Wenn diese Option aktiviert ist, können die Antworten der zweiten PI-Runde angezeigt werden. Anderfalls werden beim Klicken auf den Button **Anzeigen** die Antworten der zweiten PI-Runde nicht angezeigt.
+
+6:
+	Subheader: Menü Freigeben
+	Action: Über das Menü **Freigeben** können Sie festlegen, ob Fragen und/oder Antworten für die Studierenden freigegeben werden.
+	Details: >
+	
+				
+				- **Frage**: Wenn aktiviert, ist die Frage freigegeben, d.h. die Studierenden können die Frage sehen und beantworten.
+
+				
+				- **Antwortstatistik**: Wenn aktiviert, können die Studierenden die Antwortstatistik einsehen.
+	
+	
+				- **Korrekte Antworten**: Wenn aktiviert, können die Studierenden die korrekten Antworten sehen.
+
+7:
+	Subheader: Vollbildmodus einschalten
+	Action: Klicken Sie auf **Ansicht &rarr; Vollbild &rarr; Antworten auf Dozentenfragen**.
+	Details:>
+		 &rarr; Die Antworten werden im Vollbildmodus dargestellt.
+		 
+		 **Hinweis**: Um den Vollbildmodus zu verlassen, drücken Sie die ESC-Taste.
+		
+		 
+8:
+	Subheader: Zweite PI-Runde
+	Action: Um die zweite PI-Runde zu starten, klicken Sie auf den Button **1st**.
+	Details:>
+		 &rarr; Ein Dialogfeld wird geöffnet.
+		 
+		 **Hinweis**: Sobald Sie die zweite PI-Runde starten, werden die Antworten der ersten PI-Runde unwiderruflich gesperrt.
+		
+	
+9:
+	Subheader: 
+	Action: Klicken Sie auf **Fortfahren**.
+	Details: > 
+		&rarr; Die zweite PI-Runde wird gestartet.
+
+10:
+	Subheader: 
+	Action: Um die Antworten anzuzeigen, klicken Sie auf **Anzeigen**.
+	Details: &rarr;  Die Antworten beider Runden werden angezeigt.
+
+11:
+	Subheader: 
+	Action: Um den Vollbildmodus wieder zu verlassen, klicken Sie in die Anzeige oder drücken Sie die Taste ESC.
+	Details: &rarr; Der Normalbildmodus wird wieder angezeigt.
+12:
+	Subheader: 
+	Action: 
+	Details: Sie befinden sich wieder im Normalbildmodus.		

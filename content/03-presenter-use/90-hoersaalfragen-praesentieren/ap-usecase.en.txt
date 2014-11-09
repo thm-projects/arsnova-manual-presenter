@@ -1,0 +1,49 @@
+Title:  Present lecture questions
+----
+URL-Key: present-lecture-questions
+----
+Cat: PI
+----
+Steps:
+
+		
+1:
+	Subheader: 
+	Action: Select a session from the dropdown menu in the header bar.
+	Details: &rarr; The session is opened.
+
+2:
+	Subheader: 
+	Action: All available lecture question are shown in the lecturer pane.
+	Details: > 
+		To start with the first Peer Instruction round, you can set the timer to give the students some minutes to answer the questions.
+		
+3:
+	Subheader: Set Countdown Timer
+	Action: Click **View &rarr; Countdown-Timer**.
+	Details: >
+		&rarr; The dialog for setting the timer opens.
+
+4:
+	Subheader: 
+	Action: Set the desired time for the Countdown Timer and click **Start**. 
+	Details: >
+		&rarr; The Countdown-Timer starts.
+5:
+	Subheader: 
+	Action: The Countdown-Timer is displayed full window as an overlay over the session.
+	Details: &rarr; Once the timer has expired, the  display begins to flash red.
+		
+6:
+	Subheader: 
+	Action: Hit the ESC key to close the overlay.
+	Details: >
+		The overlay is closed.	
+
+7:
+	Subheader: 
+	Action: You are back in session view.
+	Details: >
+		As a next step, you can now present the answers of the first round of Peer Instruction.						
+	
+					

@@ -1,0 +1,48 @@
+Title: Fragen bearbeiten
+----
+URL-Key: fragen-bearbeiten
+----
+Cat: Edit
+----
+Steps:
+
+1:
+	Subheader: 
+	Action: Wählen Sie im Dropdown-Menü in der Kopfleiste eine Session aus.
+	Details: &rarr; Die Session wird angezeigt.
+
+2:
+	Subheader: 
+	Action: Klicken Sie auf **Modus &rarr; Bearbeitung**.
+	Details: &rarr; Sie gelangen in den Modus Bearbeitung.
+
+3:
+	Subheader: 
+	Action: Im Dozentenbereich werden die Fragen im Reiter Hörsaal bereits angezeigt. Um eine Vorbereitungsfrage zu bearbeiten, klicken Sie im auf den Reiter **Vorbereitungsfragen**.
+	Details: 	
+
+4:
+	Subheader: 
+	Action: Klicken Sie auf die Frage, die Sie bearbeiten möchten.
+	Details:>
+		&rarr; Die Frage wird im Publikumsbereich rechts geöffnet.
+		
+		
+		
+5:
+	Subheader: 
+	Action: Nehmen Sie die gewünschten Änderungen vor.
+	Details: >
+		
+		**Hinweis**: Das Frageformat kann nachträglich nicht geändert werden!
+
+6:
+	Subheader: 
+	Action: Klicken Sie auf **Speichern**.	
+	Details: &rarr; Die Frage wird gespeichert.
+	
+7:
+	Subheader: 
+	Action: Zur Bestätigung, dass die Frage gespeichert wurde, erscheint eine Erfolgsmeldung.	
+	Details: 								
+			

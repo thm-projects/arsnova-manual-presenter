@@ -1,0 +1,49 @@
+Title: What is Presenter?
+----
+Text:
+ARSnova consists of three innovative applications that show its real power when used in combination and set them apart from other similar applications.
+
+ - [ARSnova Mobile](https://arsnova.eu)
+ - [ARSnova Presenter](https://arsnova.eu/presenter)
+ - [ARSnova Overlay](https://arsnova.eu/overlay)
+
+ARSnova Presenter is the presentation module of the ARSnova application suite. Using Presenter, teachers can easily prepare sessions on their notebooks and present feedback, questions and anwsers during a lecture in an intuitive way that does not interfere with the lecture at all.
+
+ARSnova Presenter supports three didactic concepts that help improve the quality of teaching by integrating students interactively and adapting the content and pace of the lecture dynamically to the performance level of their students.
+
+- **Instant Feedback**: In mode Lecture (PI) you can view the feedback that comes in from your students in real time and present it in full-sceen view.  
+
+- **Peer Instruction (PI)**: The mode Lecture (PI) also implements the concept of Peer Instruction with two PI rounds in which the lecturer questions and the answers of the students can be presented.  
+
+- **Just in Time Teaching (JiTT)**: The mode Preparation support Just in Time Teaching, you can view and present the questions students had while preparing for the lecture, the preparation questions and the student's answers to those questions. 
+
+(image: feedback-loops.en.png alt: Three Feedback Loops of ARSnova: Instant Feedback, Peer-Instruction and Just-in-Time-Teaching class: center)
+
+The unique features of Presenter include:
+
+- create, edit and present questions and answer options
+- generate and present a huge QR-code of the session
+- show answer statistics in full screen
+- get noticed when questions and instant feedback comes in from the audience
+- have easy access to the first and second round of a Peer Instruction question
+
+ARSnova Presenter is available under Open Source license and can be accessed and used online by anyone. Universities or other interested parties may also install the app on their own servers.
+More information:
+
+- [ARSnova Blog](http://arsnova.eu/blog)
+- [ARSnova Helpdesk](http://arsnova.eu/blog/faq-2/)
+- [ARSnova Brochure (engl.)](https://arsnova.eu/blog/wp-content/blogs.dir/4/files/2014/07/ARSnova-Brochure-v2.pdf)
+- [ARSnova Overlay](https://arsnova.eu/overlay/)
+----
+
+ArsNova Presenter (short Presenter) is an application that supplements ArsNova Mobile, the innovative Audience Response System for improving the quality of teaching, with a desktop browser-based variant for the preparation and presentation of questions and feedback. 
+
+The lecture mode (PI) of ArsNova allows to present ARSnova data like audience feedbach (Instant Feedback) and Peer Instruction results to the audience.
+
+The Preparation mode of Presenter supports the Just In Time Teaching (JiTT) method of teaching. Here preparation questions and answers from the audience can be presented.
+
+In editing mode you can create, edit or manage sessions, preparation questions and lecture question very comfortably.
+
+
+
+

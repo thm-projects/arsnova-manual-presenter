@@ -1,0 +1,149 @@
+Title: Create and manage sessions
+----
+URL-Key: create-and-manage-sessions
+----
+Cat: Edit
+----
+Steps:
+
+1:
+	Subheader: Create a Session
+	Action:  In default view, click on **Mode &rarr;  Edit**
+	Details: &rarr; You get into **Editing** mode.
+2:
+	Subheader: 
+	Action: In the header bar, click the  **+** button.
+	Details: &rarr; The session dialog is opened.
+
+3:
+	Subheader: 
+	Action: Enter a name and a short name for the new session.
+	Details: 	
+
+4:
+	Subheader: 
+	Action: Click **Create**.
+	Details: &rarr; The session is created and a Session-ID is generated.
+
+5:
+	Subheader: 
+	Action: Click  **Mode &rarr; Lecture (PI)**.
+	Details: &rarr; The default view (Lecture (PI) is opened.		
+		
+
+6:
+	Subheader: 
+	Action: The header bar shows the session information.
+	Details: >
+			
+			- Session short name in the dropdown menu
+			
+			- Session-ID
+			
+			- QR-Code symbol button (when clicked, a huge QR-Code for easy access to the session is displayed)
+			
+			- Name of the session
+
+			- Number of students logged in to the session 
+
+7:
+	Subheader: Select a Session
+	Action:  Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Details: >
+		 
+	
+		 	
+		 	**Note**: To filter the number of entries, enter the first letter of your session name or short name.
+		
+8:
+	Subheader: 
+	Action: The session is loaded.
+	Details:>
+		In the header bar, the session information is shown. If the students have already given feedback, the Instant Feedback diagram is displayed in the audience pane. The badge next to the name of the session indicated the number of students logged in to the session.
+		
+9:
+	Subheader: Manage Sessions
+	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Details: &rarr; The session is loaded.
+
+10:
+	Subheader: 
+	Action: Click **Mode &rarr; Edit**.
+	Details: &rarr; You get into Editing mode.
+
+11:
+	Subheader: 
+	Action: Click on the **Session** tab in the Teacher's pane.
+	Details: &rarr; The session information is shown.	
+
+12:
+	Subheader: 
+	Action: Make you changes.
+	Details:>
+		You can change the following
+			
+						
+						- Change the name and short name of the session. 
+			
+					 	- Lock the session &rarr; Activate the checkbox "Lock"
+			
+						- Delete the session: Click  **Delete**"&rarr; In the dialog that opens, confirm deletion by clicking "".  **Warning**: You cannot undo deleting the session.
+			
+						- Export Session to JSON: Click the **Export** button.
+	
+13:
+	Subheader: 
+	Action: To save your changes, click **Save**.
+	Details:  &rarr; Your settings are stored in the database.
+
+14:
+	Subheader:  Show QR Code
+	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Details: &rarr; The session is loaded.
+		
+15:
+	Subheader: 
+	Action: Click on the QR code symbol in the header bar.
+	Details: >
+		&rarr; An overlay with an large QR code opens.
+		
+			
+			**Note**: To show the QR code in full-screen mode, go to **Ansicht &rarr; Vollbild  &rarr; Gesamt Arbeitsfläche** and then click on the QR code symbol.
+					
+			
+		
+16:
+	Subheader: 
+	Action: To close the QR code overlay, click into the screen or press the ESC button.
+	Details:  &rarr; The QR code overlay is closed.	
+
+17:
+	Subheader: Delete Session
+	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Details: &rarr; The session is loaded.
+
+18:
+	Subheader: 
+	Action: Click **Mode &rarr; Edit**.
+	Details: &rarr; You get into **Edition** mode.
+
+19:
+	Subheader: 
+	Action: Click on the  **Session** tab in the Teacher's pane.
+	Details: &rarr; The session information is shown.	
+
+20:
+	Subheader: 
+	Action: Click the **Delete** button.
+	Details: &rarr; A dialog is opened.
+
+21:
+	Subheader: 
+	Action: To confirm deleting the session, click  **Delete**.
+	Details: &rarr; The session will be deleted.	
+
+22:
+	Subheader: 
+	Action: A message confirms that the session has been deleted successfully.
+	Details:
+	

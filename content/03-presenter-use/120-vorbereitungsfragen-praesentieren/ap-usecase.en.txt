@@ -1,0 +1,49 @@
+Title: Present Preparation Questions
+----
+URL-Key: present-preparation-questions
+----
+Cat: JiTT
+----
+Steps:
+
+
+1:
+	Subheader: 
+	Action: Select a session from the dropdown menu in the header bar.
+	Details: &rarr; The session is opened.
+
+2:
+	Subheader: 
+	Action: Select **Mode &rarr; Preparation (JiTT)**  from the dropdown menu in the header bar..
+	Details:>
+		&rarr; All available preparation questions are shown in the lecturer pane.
+	
+
+		To start with the second Peer Instruction round, you can set the timer to give the students some minutes to discuss the questions with their peer.
+		
+3:
+	Subheader: Set and Start Countdown Timer
+	Action: Click **View &rarr; Countdown-Timer**.
+	Details: >
+		&rarr; The dialog for setting the timer opens.
+4:
+	Subheader: 
+		Action: Set the desired time for the Countdown Timer and click **Start**. 
+	Details: >
+		&rarr; The Countdown-Timer starts.
+5:
+	Subheader: 
+	Action: The Countdown-Timer is displayed full window as an overlay over the session.
+	Details: &rarr; Once the timer has expired, the  display begins to flash red.
+		
+6:
+	Subheader: 
+	Action: Hit the ESC key to close the overlay.
+	Details: >
+		The overlay is closed.	
+
+7:
+	Subheader: 
+	Action: You are back in session view.
+	Details: >
+		As a next step, you can now present the answers of the first round of Peer Instruction.		
