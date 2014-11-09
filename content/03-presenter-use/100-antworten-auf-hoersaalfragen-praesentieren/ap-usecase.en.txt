@@ -1,0 +1,94 @@
+Title: Present answers to lecture questions
+----
+URL-Key: present-answers-to-lecture-questions
+----
+Cat: PI
+----
+Steps:
+
+		
+1:
+	Subheader: 
+	Action: Select a session from the dropdown menu in the header bar.
+	Details: &rarr; The session is opened and the lecturer questions are show in the lecturer pane on the tab **Lecturer Questions".
+
+2:
+	Subheader: 
+	Action: Either click on one of the questions or on the tab **Answers**.
+	Details: >
+		The tab **Answers** is opened. By default, the answer statistics are not shown.
+		
+3:
+	Subheader:  Answers of the first PI round.
+	Action: To present the answers of the first PI round, click on **View**.  
+	Details: >	
+		&rarr; The answer statistics for the current question are shown.
+		
+		
+		
+		**Notes**
+		 	
+		 				
+		 				- Use the arrows to navigate between questions.
+		 	
+		 				- Clicking on the button  **Anzeigen** toggles between showing and hiding the answers.
+		
+
+4:
+	Subheader: Menu **Anzeigen**
+	Action: Use the menu **Anzeigen** to define how answers are shown.
+	Details: >
+		You can choose between the following options.
+		
+			
+			- **Always show answers**: Legt fest, dass die Antworten aller Fragen jeweils automatisch angezeigt werden. Wenn deaktiviert, müssen Sie zur Anzeige der Antworten für jede Frage erneut auf **Anzeigen** klicken.
+			
+			
+			- **Show correct answers**: If this option is enabled, correct answers are show in green, incorrect answers in gray.
+
+			
+			- **Before Discussion (1st)**: If this option is enabled, the answers of the first PI round are shown when the button **Anzeigen** is clicked.  If not, the answers of the first PI round are not shown when you click on **Anzeigen**.
+			
+			
+			- **Vor Discussion (2nd)**: If this option is enabled, the answers of the second PI round are shown when the button **Anzeigen** is clicked.  If not, the answers of the second PI round are not shown when you click on **Anzeigen**.
+
+
+5:
+	Subheader: Menu **Freigeben**
+	Action: Use the menu **Freigeben** to specify if questions and/or answer are released to the students. 
+	Details: >
+	
+				
+				- **Questions**: If enabled, the question is release, i.e. the students can view and answer the question.
+
+				
+				- **Answer statistics**: If enabled, the students can view the answer statistics.
+	
+	
+				- **Correct Answers**: If enabled, the students can view the correct answers.
+
+
+6:
+	Subheader: Second PI Round
+	Action: To start the second PI round, click on the button **1st**.
+	Details:>
+		 &rarr; A dialog opens.
+		 
+		 **Note**: As soon as you start the second PI round, the answers of the first PI round are locked irrevocably.
+		
+	
+7:
+	Subheader: 
+	Action: Click in **Continue**.
+	Details: > 
+		&rarr; The second PI round is started.
+
+8:
+	Subheader: 
+	Action: The second PI round is shown.
+	Details: &rarr;  **Dieser Screenshot muss noch ausgetauscht oder bearbeitet werden oder weglassen und nur den nächsten.**
+
+9:
+	Subheader: 
+	Action: To presend the answers, click on **Anzeigen**.
+	Details: &rarr; The answers of both PI rounds are shown and can be compared.

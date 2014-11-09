@@ -1,0 +1,120 @@
+Title: Hörsaalfragen erstellen
+----
+URL-Key: hoersaalfragen-erstellen
+----
+Cat: Edit
+----
+Steps:
+
+1:
+	Subheader: 
+	Action: Wählen Sie im Dropdownmenü in der Kopfleiste eine Session aus.
+	Details: &rarr; Die Session wird angezeigt.
+
+		
+2:
+	Subheader: 
+	Action: Klicken Sie auf **Modus &rarr; Bearbeitung**.
+	Details: >
+		&rarr; Sie gelangen in den Modus Bearbeitung. Im Hauptbereich rechts können Sie nun Fragen editieren.
+
+
+3:
+	Subheader: 
+	Action: Wählen Sie im Reiter "Neue Frage" im Publikumsbereich" als Fragetyp "Hörsaal".
+	Details: >
+
+4:
+	Subheader:
+	Action: >
+		Geben Sie ein Thema und die Frage ein.		
+			
+			
+			- **Thema**: Den Themenbereich Ihrer Frage. 
+				
+				**Hinweis**: Themen der aktuellen Session werden in der Datenbank gespeichert. Wenn Sie in der aktuellen Session bereits Themen erstellt haben, können Sie ein Thema aus dem Dropdown-Menü auswählen.
+					
+		
+			- **Frage**: Die Frage selbst.
+		
+		
+	Details:
+		
+5:
+	Subheader: 
+	Action: Wählen Sie ein Frageformat aus.		
+	Details:>
+		In diesem Beispiel wählen Sie Mehrfachauswahl. Diese Fragetypen stehen zur Auswahl&#58;
+		
+		
+				- **MC**: Mehrfachauswahl
+				
+				- **SC**: Einfachauswahl
+				
+				- **J/N**: Ja/Nein-Frage
+				
+				- **Txt**: Freitext-Frage
+				
+				- **Likert**: Likert-Skala				
+				
+		
+			
+			Die folgenden Fragetypen können derzeit nur über ARSnova Mobile erstellt werden:		
+				
+				
+				- **Note**: Bewertung nach Schulnotensystem
+				
+				- **LK**: Lernkarte (zum Selbststudium)
+				
+				- **Planquadrat**: 
+
+6:
+	Subheader: 
+	Action:>
+		Geben Sie eine Antwortoptionen ein und klicken Sie auf **Hinzufügen**. 
+		
+		**Hinweis**: Die folgenden Antwortmöglichkeiten variieren je nach gewähltem Fragetyp.		
+	Details:> 
+		Wiederholen Sie diesen Schritt für jede Antwortoption.
+		
+		&rarr; Die Antwortoption wird unterhalb des Feldes angezeigt.
+
+7:
+	Subheader: 
+	Action: Markieren Sie die richtige(n) Antwort(en).
+	Details: 
+				
+8:	
+	Subheader: 
+	Action: Aktivieren bzw. deaktivieren Sie die folgenden Frageoptionen.
+	Details: >
+		
+			- **Enthaltungen erlauben**: Standardeinstellung ist "deaktiviert"
+			
+			- **Frage freischalten**: Standardeinstellung ist "aktiviert"
+			
+			- **Statistik einsehbar**: Standardeinstellung ist "aktiviert"
+			
+			- **Korrekte Anwort einsehbar**: Standardeinstellung ist "deaktiviert"
+
+9:	
+	Subheader: 
+	Action: Klicken Sie auf **Erstellen**.
+	Details:	&rarr; Die Frage wird gespeichert.
+
+10:	
+	Subheader: 
+	Action: Die Erfolgreichmeldung zeigt, dass die Frage gespeichert wurde. 
+	Details:	&rarr; Die Frage wird im Dozentenbereich im Reiter **Hörsaalfragen** gelistet.
+
+11:
+	Subheader:
+	Action: Um weitere Fragen zu erstellen, klicken Sie auf den **+** Tab.
+	Details: &rarr; Ein neuer Frage-Tab wird geöffnet.
+	
+12:
+	Subheader:
+	Action: Wenn Sie mehr Frage-Tabs geöffnet haben als im Publikumsbereich Platz finden, können Sie mit den Pfeilen nach rechts und links navigieren. Mit dem Pfeil nach unten öffnen Sie ein Menü, mit dem Sie ebenfalls gezielt auf einzelne Fragen zugreifen bzw. neue Fragen hinzufügen können.
+	Details:
+
+	

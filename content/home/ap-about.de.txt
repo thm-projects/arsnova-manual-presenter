@@ -1,0 +1,50 @@
+Title: Was ist Presenter?
+----
+Slogan: <h1><span>Agile</span><span> Teaching</span></h1>
+----
+Text:
+
+Die ARSnova Application-Suite umfasst drei eigenständige, innovative Anwendungen, die jedoch gerade im Zusammenspiel ihre ganze Leistungsfähigkeit zeigen und dadurch gegenüber ähnlichen Angeboten einzigartig sind:
+ 
+ - [ARSnova Mobile](https://arsnova.eu)
+ - [ARSnova Presenter](https://arsnova.eu/presenter)
+ - [ARSnova Overlay](https://arsnova.eu/overlay)
+
+ARSnova Presenter ist das Präsentationsmodul der Applikations-Suite ARSnova. Mit Presenter können Dozenten ihre Veranstaltungen auf dem Notebook bequem vorbereiten und im Hörsaal während des Lehrvortrags intuitiv zum Präsentieren von Echtzeit-Feedback, Fragen und Antworten einsetzen, um aus einer Vorlesung eine interaktive Veranstaltung zu machen und den Lernerfolg der Studierenden zu erhöhen.
+
+ARSnova Presenter unterstützt drei didaktische Konzepte zur Qualitätsverbesserung in der Lehre, die insbesondere bei großen Veranstaltungen helfen, die Studierenden interaktiv einzubinden und die Veranstaltungen im Sinne des Agile Teaching dynamisch sowohl inhaltlich als auch geschwindigkeitsmäßig an das Leistungsniveau des Publikums anzupassen.
+
+- **Instant Feedback**: Während die Studierenden ARSnova Mobile nutzen, um Ihnen im Vorfeld und während einer Veranstaltung Feedback zu geben, können Sie in ARSnova Presenter die Ergebnisse dieses Feedbacks nicht nur ansehen, sondern dem Publikum auch im Vollbildmodus präsentieren. So haben Sie stets den Überblick, ob Ihr Publikum Ihrem Vortrag noch folgen kann. 
+
+- **Peer Instruction (PI)**: Das didaktische Konzept Peer Instruction im Hörsaal wird durch die Möglichkeit, zwei Antwortrunden zu konzeptuellen Fragen durchzuführen, unterstützt. Präsentieren Sie im Vollbildmodus Ihre Hörsaalfragen und die Antworten der Studierenden nach Bedarf vor und/oder nach jeder PI-Runde.
+
+- **Just in Time Teaching (JiTT)**: Der Bereich Vorbereitung unterstützt das Konzept des Just in Time Teaching, Sie können hier die Fragen der Studierenden zur Vorbereitung einsehen und präsentieren, sowie die Vorbereitungsfragen und die Antworten der Studierenden auf die Vorbereitungsfragen. 
+
+(image: feedback-loops.de.png alt: Drei Feedback-Loops: Instant Feedback, Peer-Instruction und Just-in-Time-Teaching class: center)
+
+
+Die Funktionen von Presenter umfassen u.a.
+
+- Sessions erstellen und bearbeiten
+- Fragen und Antwortoptionen erstellen, bearbeiten und präsentieren
+- Großen QR-Code automatische generieren und Präsentieren
+- Antwortstatistiken im Vollbildmodus anzeigen
+- Benachrichtigungen bei neuen Publikumsfragen und Feedback
+- Einfacher Zugang zu den ersten beiden Runden einer Peer-Instruction Frage 
+
+Unter dem Menüpunkt [Kennenlernen](presenter-overview) erfahren Sie in einem Überblick, wie die drei  didaktischen Konzepte im Presenter umgesetzt sind. Im [Anleitungsbereich](presenter-use) selbst sind die einzelnen Menüpunkte ebenfalls nach diesen Kategorien klassifiziert, so dass Sie gezielt darauf zugreifen können. Übrigens können Sie dieses Handbuch über den Button "Ansicht wechseln" auf den folgenden Seiten jeweils an ihre präferierte Darstellungsform anpassen.
+
+ARSnova Presenter ist wie die ARSnova Webapp unter einer Open Source Lizenz verfügbbar und online kostenlos für jeden frei zugänglich. Universitäten und andere interessierte Institutionen können die Anwendungen  aber auch auf ihren eigenen Servern und mit eigenen Zugangskonten installieren.
+ 
+ Mehr Informationen zu ARSnova:
+ 
+- [ARSnova Handbuch](http://arsnova.eu/manual)
+- [ARSnova Blog](http://arsnova.eu/blog)
+- [ARSnova Handbuch](http://arsnova.eu/manual)
+- [ARSnova Helpdesk](http://arsnova.eu/blog/faq-2/)
+- [ARSnova Broschüre (engl.)](https://arsnova.eu/blog/wp-content/blogs.dir/4/files/2014/07/ARSnova-Brochure-v2.pdf)
+- [ARSnova Overlay](https://arsnova.eu/overlay/)
+
+
+
+

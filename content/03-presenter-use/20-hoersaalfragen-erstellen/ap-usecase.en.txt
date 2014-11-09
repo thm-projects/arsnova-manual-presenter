@@ -1,0 +1,123 @@
+Title: Create lecture questions
+----
+URL-Key: create-lecture-questions
+----
+Cat: Edit
+----
+Steps:
+
+1:
+	Subheader: 
+	Action: Select a session from the dropdown menu in the header bar.
+	Details: &rarr; The session is opened.
+
+		
+2:
+	Subheader: 
+	Action: Click on  **Mode &rarr; Edit**.
+	Details: >
+		&rarr; You are directed to editing mode. In the audience panel on the left of the main panel you can now create your questions. 
+
+
+3:
+	Subheader: 
+	Action: In the "New Question" tab, select, select the question type "Lecture" from the dropdown menu.
+	Details: 
+
+4:
+	Subheader:
+	Action: >
+		Enter a topic and the question.		
+			
+			
+			- **Topic**: The topic of your question. 
+				
+				**Note**: Topics of the current session are stored in the database. If you have already created one or more topics, you can select a topic from the dropdown menu.
+					
+		
+			- **Question**: The question.
+		
+		
+	Details:
+		
+5:
+	Subheader: 
+	Action: Select a question format from the dropdown menu.		
+	Details:>
+		In this example, let's create a multiple choice question. The following question type are available&#58;
+		
+		
+				- **MC**: Multiple Choice
+				
+				- **SC**: Single Choice
+				
+				- **J/N**: Yes/No question
+				
+				- **Txt**: Text question
+				
+				- **Likert**: Likert scale				
+
+				
+		
+			
+			Currently, the following question types can only be created using ARSnova Mobile:
+				
+				
+				- **Note**: Bewertung nach Schulnotensystem
+				
+				- **LK**: Lernkarte (zum Selbststudium)
+				
+				- **Planquadrat**: 
+		
+6:
+	Subheader: 
+	Action:>
+		Enter an answer option and click **Add** or hit the enter key.
+		
+		**Note**: The possible answers  depend on the question format selected.		
+	Details:> 
+		Repeat this step for each answer option that you want to add. 
+		
+		&rarr; The answers are shown below the input field.
+		
+
+7:
+	Subheader: 
+	Action: Check the correct answer(s).
+	Details: 
+				
+8:	
+	Subheader: 
+	Action:>
+		Activate/deactivate the following options:
+	Details: >
+		
+			- **Allow abstensions**: default is  "not active"
+			
+			- **Release question**: default is "active"
+			
+			- **Release statistics**: default is "active"
+			
+			- **Release correct answer**: default is "not active"
+
+9:	
+	Subheader: 
+	Action: To save the question, click **Create**.
+	Details:	&rarr; The question is saved.
+
+10:	
+	Subheader: 
+	Action: The success message confirms that the question was saved successfully. 
+	Details:	&rarr; The question is shown in the  **Questions for lecture** tab.
+
+11:
+	Subheader:
+	Action: To add another question, click on the **+** tab.
+	Details: &rarr; A new question tab is opened.
+	
+12:
+	Subheader:
+	Action: If you have opened more **New Question** tabs than can be accomodated in the audience pane, you can navigate between them using the arrows to the right and left.  When you click the down arrow, a menu is opened from which you can select a single question or add new questions.
+	Details:
+
+	

@@ -1,0 +1,116 @@
+Title: Didactic Concept
+----
+URL-Key: didactic-concept
+----
+Text:
+ARSnova implements three types of feedback between students and teachers before and during a lecture:
+	-  Just-in Time Teaching (JiTT)
+	- Peer Instruction (PI) and 
+	- Instant Feedback. 
+
+(image: feedback-loops.en.png alt: Three kinds of Feedback-Loops: Instant Feedback, Peer-Instruction and Just-in-Time-Teaching class: center)
+
+The following slides show how Presenter supports teachers with using these teaching methods.
+
+----
+Steps:
+
+1:
+	Image:>
+		(image: en_1000-lf.png class: screenshot)
+	Subheader: Instant Feedback&#58; Live Feedback
+	Action:
+	Details: >
+		Instant Feedback is a teaching concept that allows teachers to adapt the content and pace of their lecture dynamically to the needs of their students. Feedback can be given at any time before and during a lecture.   
+		
+		
+		In ARSnova Presenter, Instant Feedback is implemented in two ways: **Live feedback** and **Questions by Students**. The **Live feedback** tab contains a feedback diagram that shows at a glance if the audience is still following along. This diagram is updated in real time. 
+
+2:
+	Image:>
+		(image: en_1010-lf.png class: screenshot)
+	Subheader: Instant Feedback&#58; Students' Questions
+	Action:
+	Details: >
+		The second tab,  **Questions by students**, shows the questions students submit during a lecture or – in mode *Assignments* – the questions students posted while preparing for the lecture. The title tab also indicates  the number of new questions, e.g. **+1** means that one new question has been submitted. Instant feedback thus lets you know in advance where students had problems and prepare your lecture accordingly, and to proactively react on students' questions during a lecture.
+	
+3:
+	Image: >
+		(image: en_1020-pi.png class: screenshot)
+	Subheader: Peer Instruction 1
+	Action: 
+	Details:>
+		Peer Instruction is a research-based pedagogical approach that was developed by Eric Mazur with the goal of creating more interactive engagement even in large lecture classes. This is achieved by replacing lectures with small-group discussions on conceptual questions, followed by whole-class discussions, with short lectures in between those conceptual questions.
+
+	
+    In a first PI round, students are given time to think about the questions and answer them individually, then discuss the rationale for their answers with their neighbors and try to reach an agreement. Afterwards, the results of the two PI rounds can be compared.
+    
+    Using Presenter, you can prepare conceptual lecture questions and present them to your audience. The screenshot shows the tab **Questions for lecture** with a conceptual question . 
+
+4:
+	Image:>
+		(image: en_1030-pi.png class: screenshot)
+	Subheader: Peer Instruction 2
+	Action:
+	Details:>
+		Afterwards, you can presents the students' answers of the first round. After a timer-controlled discussion, the results of the second round can be presented. The options for presenting results are described in the step-by-step instructions. 
+		
+		
+		Here is a typical Peer-Instruction workflow:
+		
+		
+		1. You present one or more conceptual questions that you have [created](presenter-use/hoersaalfragen-erstellen) in advance.
+		
+		2. The students get some time to think about the questions and to submit their answers. To do this, [set the timer](presenter-use/countdown-timer-anzeigen)  for the desired time.
+		
+		3. After the timer has expired, you can [present the students' answers]( presenter-use/antworten-auf-hoersaalfragen-praesentieren).
+		
+		4. Now, [set the timer]presenter-use/countdown-timer-anzeigen) again. During this time, the students discuss their answers in small groups and submit their answers again.
+		
+		5. When the timer has run down expired, you can [present the answers of the 2nd PI round](presenter-use/antworten-auf-hoersaalfragen-praesentieren). 
+		
+		
+5:
+	Image:>
+		(myyoutube:  https://www.youtube.com/watch?v=I_7L0tOl4v4)
+	Subheader: Peer-Instruction (PI) 3
+	Action: Here is a video that explains the Peer-Instruction method.
+	Details:
+		 
+					
+6:
+	Image:>
+		(image: en_1040.png class: screenshot)
+	Subheader: Just in Time Teaching (JiTT) 1
+	Action: 
+	Details:>
+		Just-in-Time Teaching, JiTT  is a pedagogical strategy that uses the feedback students give during their homework assignments in preparation for the upcoming classsession. The objective is to enhance student motivation and engagement and to maximize the efficacy of the classroom session. 
+		Presenter implements the JiTT approach through [the possibility to create different types of  preparation questions](). The questions and ...
+
+7:
+	Image: >
+		(image: en_1050.png class: screenshot)
+	Subheader: Just in Time Teaching (JiTT) 2
+	Action:
+	Details:>	
+		 ... the students' answers to these questions can be presented in *Assignment* mode in the Lecturer Pane (tabs **Questions for preparation** and **Answers**). The students' feedback given on the eve of next class lets teachers tailor classroom activities to best meet students’ needs.   
+
+8:
+	Image: >
+		(myyoutube:  https://www.youtube.com/watch?v=D5ADk2gi6JM)
+	Subheader: Just in Time Teaching (JiTT) 3
+	Action: Here is a video that explains Just-in-Time Teaching.
+	Details:
+		
+
+9:
+	Image:>
+		(image: en_1060-ARSnova-Brochure-v2.jpg class: screenshot)
+	Subheader:
+	Action:
+	Details:>
+		For more information on the teaching concepts of ARSnova, download the [Agile Teaching](https://arsnova.eu/blog/wp-content/blogs.dir/4/files/2014/07/ARSnova-Brochure-v2.pdf) brochure (English version).
+		
+		
+	
+			 

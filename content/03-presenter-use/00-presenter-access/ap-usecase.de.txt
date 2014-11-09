@@ -1,0 +1,50 @@
+Title: An-/Abmelden
+----
+URL-Key: am-presenter-anmelden
+----
+Cat: Edit
+----
+Steps:
+
+1:
+	Subheader:
+	Action: > 
+		Rufen Sie Presenter über [https://arsnova.eu/presenter](https://arsnova.eu/presenter) auf und wählen Sie einen Anmeldedienst aus.
+		
+		**Hinweis**: Sie können Presenter auch aus [ARSnova Mobile](https://arsnova.eu) heraus aufrufen, wenn Sie dort in der Rolle Dozent angemeldet sind.
+		
+		
+					- **Uni**: mit Daten der Hochschule anmelden
+			
+					- **Google**: mit Google-Konto anmelden
+			
+					- **Facebook**: mit Facebook-Konto anmelden
+	
+	Details:>
+		&rarr; Sie gelangen auf den jeweiligen Anmeldebildschirm, hier Google.
+	
+			
+2:
+	Subheader:
+	Action: Geben Sie Ihren Nutzernamen und Ihr Passwort für das ausgewählte Konto  ein.
+	Details:>
+		&rarr; Sie gelangen zur Standardansicht (Modus) *Hörsaal*.
+					
+3:
+	Subheader:
+	Action: Sie befinden sich in der Ansicht Hörsaal.
+	Details:>
+		 Wenn Sie unter Ihrem Konto bereits Sessions angelegt haben, können Sie nun eine <a  href="presenter-use/session-auswaehlen">Session auswählen</a>. Anderfalls müssen Sie jetzt eine neue <a  href="presenter-use/session-anlegen">Session anlegen</a>. 
+		 
+		 **Hinweis**: Sessions werden jeweils unter dem angemeldeten Konto verwaltet, d.h. falls Sie schon einmal Sessions unter einem anderen Konto oder als Gast erstellt haben, sind diese nicht verfügbar.
+		 
+4:
+	Subheader:
+	Action: Zum Ausloggen klicken Sie auf den Button **Abmelden**.
+	Details: &rarr; Sie gelangen zurück zur Startansicht.	
+
+5:
+	Subheader:
+	Action: Sie sind wieder in der Startansicht.
+	Details: 
+		

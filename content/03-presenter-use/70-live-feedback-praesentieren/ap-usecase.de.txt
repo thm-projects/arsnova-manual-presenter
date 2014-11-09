@@ -1,0 +1,48 @@
+Title: Live-Feedback präsentieren
+----
+URL-Key: live-feedback-praesentieren
+----
+Cat: LF
+----
+Steps:
+
+
+1:
+	Subheader: 
+	Action: Wählen Sie im Dropdown-Menü in der Kopfleiste eine Session aus.
+	Details: &rarr; Die Session wird angezeigt.
+
+2:
+	Subheader: 
+	Action: Im Publikumsbereich wird das Live-Feedback angezeigt.
+	Details: >
+		Das Balkendiagramm zeigt jeweils die Relation zwischen den einzelnen Feedback-Bewertungen an.  Auf der x-Achse sind die Optionen angegeben, auf der y-Achse die Anzahl der jeweiligen Bewertungen.
+		
+		Folgende Bewertungsoptionen stehen zur Verfügung:
+		
+			
+			
+		- Kann folgen
+			
+		- Bitte schneller
+			
+		- Zu schnell
+			
+		- Abgehängt
+	
+3:
+	Subheader: 
+	Action: Um das Live-Feedback im Vollbildmodus anzuzeigen, wählen Sie **Ansicht &rarr; Vollbild &rarr; Feedback des Publikums**.
+	Details: &rarr; Das Live-Feeback wird im Vollbildmodus angezeigt. 
+
+4:
+	Subheader: 
+	Action:	Um wieder in die Standardansicht zu wechseln, drücken Sie die ESC-Taste oder doppellicken Sie in die Vollbildansicht.
+	Details: &rarr; Die Standardansicht wird angezeigt.
+
+5:
+	Subheader: 
+	Action:	Sie befinden jetzt wieder in der Session-Ansicht.
+	Details: 
+	
+	

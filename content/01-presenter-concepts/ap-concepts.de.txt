@@ -1,0 +1,113 @@
+Title: Didaktisches Konzept
+----
+URL-Key: didaktisches-konzept
+----
+Text:
+ARSnova implementiert drei Arten  der Rückkopplung  zwischen Studenten und Dozenten vor und während einer Veranstaltung: 
+
+- Instant Feedback
+- Peer Instruction (PI) 
+- Just-in Time Teaching (JiTT)
+
+(image: feedback-loops.de.png alt: Drei Feedback-Loops: Instant Feedback, Peer-Instruction und Just-in-Time-Teaching class: center)
+
+Im folgenden werden diese didaktischen Konzepte kurz beschrieben und gezeigt, wie Sie diese mit Hilfe des ARSnova Presenter einsetzen können.
+----
+Steps:
+
+1:
+	Image:>
+		(image: de_1000-lf.png class: screenshot)
+	Subheader: Instant Feedback&#58; Live Feedback
+	Action:
+	Details: >
+		Instant Feedback ist ein didaktisches Konzept, dass es Dozenten ermöglicht, ihre Veranstaltung dynamisch an das Leistungsniveau und das Tempo der Studierenden anzupassen. Feedback kann dabei sowohl bereits vor als auch während einer Veranstaltung eingeholt werden.  
+		
+		
+		In ARSnova Presenter umfasst der Bereich Instant Feedback 2 Reiter: Live Feedback und Fragen des Publikums.  **Live Feedback** gibt in Form eines Balkendiagramms während einer Vorlesung permanent Auskunft darüber, ob Ihr Publikum Ihnen noch folgen kann. Dieses Diagramm wird in Echtzeit aktualisiert und kann auch im Vollbildmodus dem Publikum präsentiert werden.
+
+2:
+	Image:>
+		(image: de_1010-lf.png class: screenshot)
+	Subheader: Instant Feedback&#58; Publikumsfragen
+	Action:
+	Details: >
+		Neben dem Live Feedback werden im zweiten Reiter die aktuellen **Fragen des Publikums** während einer Vorlesung oder – im Modus Vorbereitung – die Fragen der Studierenden zu den Vorbereitungsaufgaben angezeigt. Im  Titel des Reiters wird immer die aktuelle Anzahl der neu eigegangenen Fragen angezeigt  als z.B. **+1** (siehe vorheriger Screenshot). So können Sie einerseits schon im Vorfeld Ihrer Veranstaltung sehen, wo Probleme liegen und diese berücksichtigen als auch während der Vorlesung proaktiv auf die Verständnisfragen der Studenten eingehen.
+	
+3:
+	Image: >
+		(image: de_1020-pi.png class: screenshot)
+	Subheader: Peer Instruction 1
+	Action: 
+	Details:>
+		Peer Instruction ist eine pädagogische Methode, die von Eric Mazur entwickelt wurde. Das Ziel von Peer Instruction ist, große Vorlesungen interaktiver zu machen, indem der Frontalunterricht aufgebrochen wird zugunsten von Diskussionen über konzeptuelle Fragen in kleinen Gruppen.  Die Studierenden  sollen zunächst allein über die gestellten Fragen nachdenken und ihre Antworten geben. Anschließend diskutieren sie ihre Ergebnisse mit ihren Nachbarn und begründen ihre eigenen Standpunkte. Anschließend können die Vorher-Nachher Ergebnisse der beiden PI-Runden miteinander verglichen werden.
+		
+		Im Presenter können Dozenten dazu Hörsaalfragen stellen – hier eine konzeptuelle Beispielfrage im Reiter Hörsaalfragen – und diese anschließend im Presenter den Studierenden präsentieren.
+
+4:
+	Image:>
+		(image: de_1030-pi.png class: screenshot)
+	Subheader: Peer Instruction 2
+	Action:
+	Details:>
+		Anschließend können die Antworten  der ersten Antwortrunde (PI-Runde) präsentiert werden. Nach einer Timer-gesteuerten Diskussionsrunde im Publikum können im Anschluss die Antworten der zweiten Antwortrunde angezeigt werden. Dazu stehen Ihnen unterschiedliche Optionen zur Verfügung, die im Anleitungsteil näher beschrieben sind. 
+		
+		
+		Ein typischer Peer-Instruction Workflow sieht demnach so aus:
+		
+		
+		1. Sie präsentieren den Studierenden ein oder mehrere konzeptuelle Hörsaalfragen, die Sie zuvor [erstellt](presenter-use/hoersaalfragen-erstellen) haben.
+		
+		2. Sie geben den Studierenden einige Minuten Zeit, über diese Frage(n) nachzudenken und ihre Antworten abzugeben. Dazu [stellen Sie den Timer](presenter-use/countdown-timer-anzeigen) auf die vorgesehene Zeit ein.
+		
+		3. Nach Ablauf des Timers können Sie die [Antworten der Studierenden präsentieren]( presenter-use/antworten-auf-hoersaalfragen-praesentieren).
+		
+		4. Nun stellen Sie erneut den [Timer](presenter-use/countdown-timer-anzeigen). Während dieser Zeit sollen die Studierenden in kleinen Gruppen diskutieren und erneut ihre Antworten abgeben.
+		
+		5. Nach Ablauf des Timers [präsentieren Sie die Antworten der 2. PI-Runde](presenter-use/antworten-auf-hoersaalfragen-praesentieren). 
+		
+		
+5:
+	Image:>
+		(myyoutube:  https://www.youtube.com/watch?v=T3FTTVFPglw)
+	Subheader: Peer-Instruction (PI) 3
+	Action: Hier ein gutes Erklär-Video zur Lehrmethode Peer-Instruction
+	Details:
+		 
+					
+6:
+	Image:>
+		(image: de_1040.png class: screenshot)
+	Subheader: Just in Time Teaching (JiTT) 1
+	Action: 
+	Details:>
+		Die Lehrmethode Just-in-Time-Teaching nutzt das Feedback der Studierenden auf Hausaufgaben zur Vorbereitung der nächsten Vorlesung. Das Ziel von JiTT ist es, die Motivation der Studierenden zu erhöhen und zugleich die Effizienz der Veranstaltung zu maximieren.
+		Die Hausaufgaben können Sie in Form von Vorbereitungsfragen im Presenter erstellen ...
+
+7:
+	Image:> 
+		(image: de_1050.png class: screenshot)
+	Subheader: Just in Time Teaching (JiTT) 2
+	Action:
+	Details:>	
+		 ... die Antworten der Studierenden auf diese Vorbereitungsfragen einerseits und die Fragen der Studierenden anderseits können Sie dann dazu nutzen, die nächste Stunde so vorzubereiten, dass Sie auf die Bedürfnisse  des Publikums am besten eingehen können. 
+
+8:
+	Image: >
+		(myyoutube:  https://www.youtube.com/watch?v=D5ADk2gi6JM)
+	Subheader: Just in Time Teaching (JiTT) 3
+	Action: Und hier ein Erklär-Video zur Lehrmethode Just-in-Time Teaching
+	Details:
+		
+
+9:
+	Image:>
+		(image: de_1060-ARSnova-Brochure-v2.jpg class: screenshot)
+	Subheader:
+	Action:
+	Details:>
+		Weitere Informationen zu den didaktischen Konzepten von ARSnova finden Sie in der [Agile Teaching](https://arsnova.eu/blog/wp-content/blogs.dir/4/files/2014/07/ARSnova-Brochure-v2.pdf) Broschüre (engl.).
+		
+		
+	
+			 

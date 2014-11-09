@@ -1,0 +1,87 @@
+Title: Overview
+----
+URL-Key: overview-user-interface
+----
+Steps:
+
+1:
+	Subheader:
+	Action: Presenter User Interface
+	Details: >
+		<ol>
+			<li markdown=1> **Header bar**: Session information and menus (from left to right)</li><ul markdown=1>
+										
+								- Dropdown menu Sessions (after session is selected, session short name is shown)
+
+								- Session-ID
+				
+								- QR-Code Button (when clicked, a huge QR code is shown which can be read with a smartphone)
+				
+								- Name of session
+							
+								- Badge that shows number of students logged in to session
+				
+								- Dropdown menu View
+							
+								- Dropdown menu Mode
+							
+								- Logout button</ul>
+		
+		<li markdown=1> **Teacher's Pane**:  Anzeige von Dozentenfragen und Antworten auf Fragen</li>
+		
+		<li markdown=1> **Audience Pane**: Show students' questions and Instant Feedback</li>
+		
+		<li markdown=1>**Footer bar**: status messages and information about Presenter</li>
+		</ol>
+	
+2:
+	Subheader:
+	Action: Lecture Mode(default view at start of application)
+	Details: >
+		
+			- Teacher's pane on the left:  tab **Lecturer Questions**
+				
+			
+			- Audience pane on the right: tab **Live-Feedback**
+				
+
+3:
+	Subheader:
+	Action: Lecture Mode(Standardansicht beim Öffnen der Anwendung)
+	Details: >
+		
+			- Teacher's pane on the left:  tab **Answers** to lecturer questions
+			
+			- Audience pane on the right: tab **Students' Questions**
+	
+4:
+	Subheader:
+	Action: Modus Vorbereitung (JiTT)
+	Details:> 
+	
+		- Teacher's pane on the left:  tab **Preparation Questions**
+		
+		- Audience pane on the right: tab **Students' Questions** regarding preparation questions
+
+5:
+	Subheader:
+	Action: Preparation Mode (JiTT)
+	Details: >
+	
+			- Teacher's pane on the left:  Reiter **Answers** to Preparation Questions
+
+6:
+	Subheader:
+	Action: Editing Mode
+	Details: 	Create and edit sessions
+
+7:
+	Subheader:
+	Action: Editing Mode
+	Details: 	Create and edit lecturer questions
+
+8:
+	Subheader:
+	Action: Editing Mode
+	Details: 	Create and edit preparation questions
+	

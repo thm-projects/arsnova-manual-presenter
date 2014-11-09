@@ -1,0 +1,11 @@
+Title: <span>Presenter</span><span> Manual</span>
+----
+Meta_Title: Presenter Manual
+----
+Author: Sonja Broda
+----
+Description: ARSnova is an innovative Audience Response System developed by students of informatics at Technische Hochschule Mittelhessen.
+----
+Keywords: ARSnova, ARS, THM, Audience Response System, HTML5 App, online feedback
+----
+Copyright:  A (link:http://thm.de text: THM) Product&nbsp;|&nbsp;Manual Design:  (link: http://www.texniq.de text: texniq Technische Kommunikation und Webdesign)

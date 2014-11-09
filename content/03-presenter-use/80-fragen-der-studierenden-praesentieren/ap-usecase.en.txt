@@ -1,0 +1,38 @@
+Title:  Present/delete questions from audience
+----
+URL-Key: present-audience-questions
+----
+Cat: LF
+----
+Steps:
+
+		
+1:
+	Subheader:  Present Questions
+	Action: Select a session from the dropdown menu in the header bar.
+	Details: &rarr; The session is opened.
+
+2:
+	Subheader: 
+	Action: In the audience pane, click on the tab **Audience Questions**. If the tab is not active, the number of new questions is shown in real time, e.g. (+1) if one new question is available. 
+	Details:  &rarr; All available audience questions are shown. 
+		
+3:
+	Subheader:  Show a Question
+	Action: The questions are shown in the order in which they were asked. Questions that have not been viewed yet are shown in red. To show a question, click on it. 
+	Details: &rarr; The complete question is shown.
+			
+4:
+	Subheader:  Delete Questions
+	Action:>
+		To delete a question once it was answered, click on the red **x**. **Note**: You can delete a question in both opened and closed states.
+	Details: &rarr; A dialog opens.
+
+5:
+	Subheader: 
+	Action: Confirm the deletion of the question question by clicking on  **Delete**: &rarr; The question is deleted.	
+
+6:
+	Subheader: 
+	Action: The question was deleted.
+	Details:			
