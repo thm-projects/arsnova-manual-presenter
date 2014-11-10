@@ -8,26 +8,26 @@ Steps:
 
 1:
 	Subheader: 
-	Action: Select a session from the dropdown menu in the header bar.
-	Details: &rarr; The session is opened.		
+	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Details: &rarr; The session is loaded.		
 
 2:
 	Subheader: 
-	Action: Click on  **Mode &rarr; Edit**.
+	Action: Go to  **Mode &rarr; Editing**.
 	Details: >
-		&rarr; You are directed to editing mode. In the audience panel on the left of the main panel you can now create your questions. 
+		&rarr; You get into editing mode. In the students' pane on the left of the main window you can now create questions. 
 
 3:
 	Subheader: 
-	Action: In the lecture pane, click the tab **Preparation Questions**. 
+	Action: In the lecture pane, click the tab **Questions for preparation**. 
 	Details: &rarr; The tab is opened. 
 	
-		Note: This steps is not mandatory, but you will see all available questions.
+		**Note**: This steps is not mandatory, but gives you an opportunity to view the questions you have already created.
 		
 
 4:
 	Subheader: 
-	Action: In the "New Question" tab, select the question type "Preparation" from the dropdown menu.
+	Action: On a "New Question" tab, select the question type "Preparation" from the dropdown menu.
 	Details: 
 
 5:
@@ -41,7 +41,7 @@ Steps:
 				**Note**: Topics of the current session are stored in the database. If you have already created one or more topics, you can select a topic from the dropdown menu.
 					
 		
-			- **Question**: The question.
+			- **Question**: The text of your question.
 			
 	Details:
 
@@ -49,31 +49,30 @@ Steps:
 	Subheader: 
 	Action: Select a question format from the dropdown menu.		
 	Details:>
-		In this example, let's create a multiple choice question. The following question type are available&#58;
+		In this example, let's create a single choice question. The following question type are available&#58;
 		
 		
-				- **MC**: Multiple Choice
+				-  Single Choice
 				
-				- **SC**: Single Choice
+				-  Multiple Choice
 				
-				- **J/N**: Yes/No question
+				- Yes/No
 				
-				- **Txt**: Text question
-				
-				- **Likert**: Likert scale				
+				- (Likert) scale
+
+				- Free text					
 
 				
 		
 			
 			Currently, the following question types can only be created using ARSnova Mobile:
+								
 				
+				- **A-F**: Grade
 				
-				- **Note**: Bewertung nach Schulnotensystem
+				- **FC**: Flashcard
 				
-				- **LK**: Lernkarte (zum Selbststudium)
-				
-				- **Planquadrat**: 
-		
+				- **P**: Picture Question
 
 7:
 	Subheader: 
@@ -84,7 +83,7 @@ Steps:
 	Details:> 
 		Repeat this step for each answer option that you want to add. 
 		
-		&rarr; The answers are shown below the input field.
+		&rarr; The answers are listed below the input field.
 
 8:
 	Subheader: 
@@ -112,8 +111,8 @@ Steps:
 
 11:
 	Subheader: 
-	Action: The success message confirms that the question was saved successfully. 
-	Details:	&rarr; The question is shown in the  **Questions for lecture** tab.
+	Action: A success message confirms that the question was saved successfully. 
+	Details:	&rarr; The question is listed on the  **Questions for preparation** tab.
 	
 12:
 	Subheader:

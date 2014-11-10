@@ -65,7 +65,7 @@ Steps:
 				
 				- **A-F**: Grade
 				
-				- **FC**: Flashcard (zum Selbststudium)
+				- **FC**: Flashcard
 				
 				- **P**: Picture Question
 		
