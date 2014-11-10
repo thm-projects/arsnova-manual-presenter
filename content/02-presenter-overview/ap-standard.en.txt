@@ -15,21 +15,21 @@ Steps:
 
 								- Session-ID
 				
-								- QR-Code Button (when clicked, a huge QR code is shown which can be read with a smartphone)
+								- QR-Code Button (when clicked, a huge QR code is shown that can be read with a smartphone app)
 				
-								- Name of session
+								- Name of the session
 							
-								- Badge that shows number of students logged in to session
+								- Badge that shows number of students logged in to the session
 				
-								- Dropdown menu View
+								- Dropdown menu *View*
 							
-								- Dropdown menu Mode
+								- Dropdown menu *Mode*
 							
 								- Logout button</ul>
 		
-		<li markdown=1> **Teacher's Pane**:  Anzeige von Dozentenfragen und Antworten auf Fragen</li>
+		<li markdown=1> **Teacher's Pane**:  In *Lecture* mode: Questions for lecture and students' answers. In *Assignment* mode: Questions for preparation and students' answers.</li>
 		
-		<li markdown=1> **Audience Pane**: Show students' questions and Instant Feedback</li>
+		<li markdown=1> **Students' Pane**: Show *Questions by students* and *Live feedback*</li>
 		
 		<li markdown=1>**Footer bar**: status messages and information about Presenter</li>
 		</ol>
@@ -39,24 +39,24 @@ Steps:
 	Action: Lecture Mode(default view at start of application)
 	Details: >
 		
-			- Teacher's pane on the left:  tab **Lecturer Questions**
+			- Teacher's pane on the left:  tab **Questions for lecture**
 				
 			
-			- Audience pane on the right: tab **Live-Feedback**
+			- Students' pane on the right: tab **Live feedback**
 				
 
 3:
 	Subheader:
-	Action: Lecture Mode(Standardansicht beim Öffnen der Anwendung)
+	Action: Lecture Mode (default view at startup)
 	Details: >
 		
-			- Teacher's pane on the left:  tab **Answers** to lecturer questions
+			- Teacher's pane on the left:  tab **Answers** to lecture questions
 			
-			- Audience pane on the right: tab **Students' Questions**
+			- Students' pane on the right: tab **Students' Questions**
 	
 4:
 	Subheader:
-	Action: Modus Vorbereitung (JiTT)
+	Action: Mode Assignments (JiTT)
 	Details:> 
 	
 		- Teacher's pane on the left:  tab **Preparation Questions**
@@ -65,10 +65,10 @@ Steps:
 
 5:
 	Subheader:
-	Action: Preparation Mode (JiTT)
+	Action: Mode Assignments (JiTT)
 	Details: >
 	
-			- Teacher's pane on the left:  Reiter **Answers** to Preparation Questions
+			- Teacher's pane on the left:  tag **Answers** to *Questions for preparation*
 
 6:
 	Subheader:
@@ -78,7 +78,7 @@ Steps:
 7:
 	Subheader:
 	Action: Editing Mode
-	Details: 	Create and edit lecturer questions
+	Details: 	Create and edit lecture questions
 
 8:
 	Subheader:
