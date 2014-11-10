@@ -11,7 +11,7 @@ Steps:
 	Action: > 
 		Open Presenter at  <a href="https://arsnova.eu/presenter">https://arsnova.eu/presenter</a> and choose a login account.
 		
-		**Note**: You can also access Presenter from the ARSnova app when logged in as a Teacher.
+		**Note**: You can also access Presenter from the ARSnova app when logged in as Teacher.
 		
 		
 					- **Uni**: login with your university credentials
@@ -27,23 +27,23 @@ Steps:
 .
 2:
 	Subheader:
-	Action: Enter your user name and password for the service in the respective input fields.
+	Action: Enter your user name and password for the service in the corresponding input fields.
 	Details:>
 		&rarr; You are redirected to the default view of Presenter, i.e. lecture mode.
 					
 3:
 	Subheader:
-	Action: You are now in lecture view.
+	Action: You are now in lecture mode.
 	Details:>
-		 If you have already created sessions in ARSnova mobile using the same account, these sessions are now available and you can  <a  href="presenter-use/select-session">select a session</a>. Otherwise, you need to  <a  href="presenter-use/create-and-manage-session">create a session</a> first. 
+		 If you have already created sessions with ARSnova mobile using the same account, these sessions are now available and you can  <a  href="presenter-use/select-session">select a session</a>. Otherwise, you need to  <a  href="presenter-use/create-and-manage-session">create a session</a> first. 
 		 
 		 
-		 **Note**: Sessions are managed under the registered account. If you have already created sessions using a different account or as a guest, they will not be available.
+		 **Note**: Sessions are managed under the registered account. If you have already created sessions using a different account or as a guest, these session are not available.
 		 
 4:
 	Subheader:
 	Action: To log out, click on the  **Logout** button.
-	Details: &rarr; You are taken to the start page.	
+	Details: &rarr; You are redirected to the start page.	
 
 5:
 	Subheader:
