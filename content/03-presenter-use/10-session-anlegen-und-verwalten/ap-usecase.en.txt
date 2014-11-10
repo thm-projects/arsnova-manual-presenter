@@ -8,7 +8,7 @@ Steps:
 
 1:
 	Subheader: Create a Session
-	Action:  In default view, click on **Mode &rarr;  Edit**
+	Action:  In default view, go to **Mode &rarr;  Editing**
 	Details: &rarr; You get into **Editing** mode.
 2:
 	Subheader: 
@@ -27,20 +27,20 @@ Steps:
 
 5:
 	Subheader: 
-	Action: Click  **Mode &rarr; Lecture (PI)**.
-	Details: &rarr; The default view (Lecture (PI) is opened.		
+	Action:  Go to **Mode &rarr; Lecture (PI)**.
+	Details: &rarr; The default view (Lecture (PI)) is opened.		
 		
 
 6:
 	Subheader: 
-	Action: The header bar shows the session information.
+	Action: The header bar shows information about the session.
 	Details: >
 			
 			- Session short name in the dropdown menu
 			
 			- Session-ID
 			
-			- QR-Code symbol button (when clicked, a huge QR-Code for easy access to the session is displayed)
+			- QR-Code button (when clicked, a huge QR-Code for easy access to the session is displayed)
 			
 			- Name of the session
 
@@ -59,7 +59,7 @@ Steps:
 	Subheader: 
 	Action: The session is loaded.
 	Details:>
-		In the header bar, the session information is shown. If the students have already given feedback, the Instant Feedback diagram is displayed in the audience pane. The badge next to the name of the session indicated the number of students logged in to the session.
+		In the header bar, the session information is shown. If the students have already given feedback, the Instant Feedback diagram is displayed in the audience pane. The badge next to the name of the session shows the number of students logged in to the session.
 		
 9:
 	Subheader: Manage Sessions
@@ -68,28 +68,27 @@ Steps:
 
 10:
 	Subheader: 
-	Action: Click **Mode &rarr; Edit**.
-	Details: &rarr; You get into Editing mode.
+	Action: Go to **Mode &rarr; Editing**.
+	Details: &rarr; You get into *Editing* mode.
 
 11:
 	Subheader: 
 	Action: Click on the **Session** tab in the Teacher's pane.
-	Details: &rarr; The session information is shown.	
+	Details: &rarr; The session details are shown.	
 
 12:
 	Subheader: 
-	Action: Make you changes.
+	Action: You can now edit the session details.
 	Details:>
-		You can change the following
+		You can edit the following
 			
 						
 						- Change the name and short name of the session. 
 			
 					 	- Lock the session &rarr; Activate the checkbox "Lock"
 			
-						- Delete the session: Click  **Delete**"&rarr; In the dialog that opens, confirm deletion by clicking "".  **Warning**: You cannot undo deleting the session.
-			
-						- Export Session to JSON: Click the **Export** button.
+						- Delete the session: Click  **Delete**.			
+						- Export Session to JSON format: Click the **Export** button.
 	
 13:
 	Subheader: 
@@ -105,10 +104,10 @@ Steps:
 	Subheader: 
 	Action: Click on the QR code symbol in the header bar.
 	Details: >
-		&rarr; An overlay with an large QR code opens.
+		&rarr; An overlay with a large QR code opens.
 		
 			
-			**Note**: To show the QR code in full-screen mode, go to **Ansicht &rarr; Vollbild  &rarr; Gesamt Arbeitsfläche** and then click on the QR code symbol.
+			**Note**: To show the QR code in full-screen mode, go to **View &rarr; Full screen &rarr; Dashboard** and then click on the QR code symbol.
 					
 			
 		
@@ -124,7 +123,7 @@ Steps:
 
 18:
 	Subheader: 
-	Action: Click **Mode &rarr; Edit**.
+	Action: Go to **Mode &rarr; Editing**.
 	Details: &rarr; You get into **Edition** mode.
 
 19:
@@ -139,8 +138,14 @@ Steps:
 
 21:
 	Subheader: 
-	Action: To confirm deleting the session, click  **Delete**.
-	Details: &rarr; The session will be deleted.	
+	Action:>
+	    To confirm deleting the session, click  **Delete**.
+	    
+	    **Warning**: This cannot be undone. Once the session is deleted, all information stored in the session will be lost.
+	    
+	Details: &rarr; The session will be deleted.
+
+
 
 22:
 	Subheader: 
