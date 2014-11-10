@@ -4,7 +4,7 @@ URL-Key: switch-to-arsnova-mobile-view
 ----
 Cat: Edit
 ----
-Text: Once you have created a session, you can check how it is presented in ARSnova Mobile.
+Text: Once you have created a session, you can view how it is presented in ARSnova Mobile.
 
 **For help with using ARSnova Mobile, go to   [ARSnova Manual](https://arsnova.eu/manual)**.
 ----
@@ -12,25 +12,25 @@ Steps:
 
 1:
 	Subheader: 
-	Action: Select a session from the dropdown menu in the header bar.
-	Details: &rarr; The session is opened.
+	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Details: &rarr; The session is loaded.
 
 2:
 	Subheader:  View as Student
-	Action: To open the session in view Student, select **View &rarr Mobile (Student)** from the drop-down menu.
-	Details: &rarr; ARSnova Mobile is opened with role Student. 
+	Action: To open the session in view Student, got to **View &rarr Mobile (Student)**.
+	Details: &rarr; ARSnova Mobile is opened in the student's role. 
 
 3:
 	Subheader:  
-	Action: The session selected in Presenter is shown in ARnova Mobile. You can now view available questions or test the session.
+	Action: The session selected in Presenter is shown in ARnova Mobile. You can now test the session, view and answer available questions etc.
 	Details: >
 		
-		**Note**:  Depending on the size of your browser window, ARSnova Mobile is either presented as an Overlay as shown in the screenshot, or ARSnova Mobile is opened in a new browser tab.  
+		**Note**:  Depending on the size of your browser window, ARSnova Mobile is either presented as an Overlay as shown in the screenshot, or it is opened in a new browser tab.  
 
 4:
 	Subheader:  View as Teacher
-	Action: To open the session in view Teacher, select **View &rarr Mobile (Teacher)** from the drop-down menu.
-	Details: &rarr; ARSnova Mobile is opened with role Teacher. 
+	Action: To open the session in view Teacher, go to **View &rarr Mobile (Teacher)**.
+	Details: &rarr; ARSnova Mobile is opened in the teacher's role. 
 
 5:
 	Subheader:  
@@ -47,6 +47,6 @@ Steps:
 
 7:
 	Subheader: 
-	Action: You are back in session view.
+	Action: You are back in *Session* view.
 	Details: 		
 			
