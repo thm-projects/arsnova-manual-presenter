@@ -1,6 +1,6 @@
 Title: Login/-out
 ----
-URL-Key: login-to-presenter
+URL-Key: presenter-login
 ----
 Cat: Edit
 ----
@@ -11,14 +11,14 @@ Steps:
 	Action: > 
 		Open Presenter at  <a href="https://arsnova.eu/presenter">https://arsnova.eu/presenter</a> and choose a login account.
 		
-		**Note**: You can also access Presenter from the ARSnova app when logged in as Teacher.
+		**Note**: You can also access Presenter from the ARSnova Mobile app when logged in as *Teacher*.
 		
 		
 					- **Uni**: login with your university credentials
 			
-					- **Google**: login with your Google account
+					- **Google**: login with your Google account credentials
 			
-					- **Facebook**: login with your Facebook account
+					- **Facebook**: login with your Facebook account credentials
 	
 	Details:>
 		&rarr; You are redirected to the login screen of the respective service, here: Google.
@@ -33,12 +33,12 @@ Steps:
 					
 3:
 	Subheader:
-	Action: You are now in lecture mode.
+	Action: You are now in *Lecture mode*.
 	Details:>
-		 If you have already created sessions with ARSnova mobile using the same account, these sessions are now available and you can  <a  href="presenter-use/select-session">select a session</a>. Otherwise, you need to  <a  href="presenter-use/create-and-manage-session">create a session</a> first. 
+		 If you have already created sessions with ARSnova Mobile using the same account, these sessions are now available and you can  select a session. Otherwise, you need to  <a  href="presenter-use/create-and-manage-session">create a session</a> first. 
 		 
 		 
-		 **Note**: Sessions are managed under the registered account. If you have already created sessions using a different account or as a guest, these session are not available.
+		 **Note**: Sessions are managed under the registered account. If you created sessions using a different account or as a guest, these session will not be available.
 		 
 4:
 	Subheader:

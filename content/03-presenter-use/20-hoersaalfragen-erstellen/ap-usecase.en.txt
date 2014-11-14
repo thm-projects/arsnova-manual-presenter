@@ -8,7 +8,7 @@ Steps:
 
 1:
 	Subheader: 
-	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Action: Click into the Session select field in the header bar and select a session from the list of available sessions. 
 	Details: &rarr; The session is loaded.
 
 		
@@ -16,12 +16,12 @@ Steps:
 	Subheader: 
 	Action: Go to  **Mode &rarr; Editing**.
 	Details: >
-		&rarr; You get into Editing mode. In the students' pane on the left of the main window you can now create questions. 
+		&rarr; You get into *Editing* mode. In the students' pane on the left of the main window you can now create questions. 
 
 
 3:
 	Subheader: 
-	Action: On a "New Question" tab, select the question type "Lecture" from the dropdown menu.
+	Action: In a *New Question* tab, select  *Lecture* from the question type options in the select field.
 	Details: 
 
 4:
@@ -32,7 +32,7 @@ Steps:
 			
 			- **Topic**: The topic of your question. 
 				
-				**Note**: Topics of the current session are stored in the database. If you have already created one or more topics, you can select a topic from the dropdown menu.
+				**Note**: Topics of the current session are stored in the database. If you have already created one or more topics, you can select a topic from the select field.
 					
 		
 			- **Question**: The text of your question.
@@ -42,14 +42,14 @@ Steps:
 		
 5:
 	Subheader: 
-	Action: Select a question format from the dropdown menu.		
+	Action: Select a question format from the select field.		
 	Details:>
 		In this example, let's create a multiple choice question. The following question types are available&#58;
 		
 		
-				-  Single Choice
+				- Single Choice
 				
-				-  Multiple Choice
+				- Multiple Choice
 				
 				- Yes/No
 				
@@ -72,7 +72,7 @@ Steps:
 6:
 	Subheader: 
 	Action:>
-		Enter an answer option and click **Add** or hit the Enter key.
+		Enter an answer option and click on the **Add** button or hit the Enter key.
 		
 		**Note**: The possible answers  depend on the question format you selected.		
 	Details:> 
@@ -102,13 +102,13 @@ Steps:
 
 9:	
 	Subheader: 
-	Action: To save the question, click **Create**.
+	Action: To save the question, click on the **Create** button.
 	Details:	&rarr; The question is saved.
 
 10:	
 	Subheader: 
 	Action: A success message confirms that the question was saved successfully. 
-	Details:	&rarr; The question is listed on the  **Questions for lecture** tab.
+	Details:	&rarr; The question is listed in the  **Questions for lecture** tab.
 
 11:
 	Subheader:
@@ -117,7 +117,7 @@ Steps:
 	
 12:
 	Subheader:
-	Action: If you have opened more **New Question** tabs than can be accomodated in the students' pane, you can navigate between them using the arrows to the right and left.  When you click the down arrow, a menu is opened from which you can select a single question or add new questions.
+	Action: If you have opened more *New Question* tabs than can be accomodated in the students' pane, you can navigate between them using the arrows to the right and left.  When you click on the down arrow, a menu is opened from which you can select a single question or add new questions.
 	Details:
 
 	
