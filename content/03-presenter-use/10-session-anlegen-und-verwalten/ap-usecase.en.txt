@@ -114,7 +114,7 @@ Steps:
 		
 16:
 	Subheader: 
-	Action: To close the QR code overlay, click into the screen or press the ESC button.
+	Action: To close the QR code overlay, click into the screen or hit the ESC button.
 	Details:  &rarr; The QR code overlay is closed.	
 
 17:

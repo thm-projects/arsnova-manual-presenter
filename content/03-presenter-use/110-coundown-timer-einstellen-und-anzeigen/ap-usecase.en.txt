@@ -9,31 +9,31 @@ Steps:
 
 1:
 	Subheader: 
-	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. .
+	Action: Click into the Session select field in the header bar and select a session from the list of available sessions.
 	Details: &rarr; The session is loaded.
 2:
 	Subheader: 
-	Action: Go to  **View &rarr; Countdown-Timer**.
+	Action: Go to  **View &rarr; Countdown timer**.
 	Details: >
 		&rarr; The countdown timer settings dialog is opened.
 
 3:
 	Subheader: 
-	Action: Set the countdown timer to the desired time and click on the **Start** button. 
+	Action: Set the Countdown timer and click on the **Start** button. 
 	Details: >
-		&rarr; The countdown timer starts to count down.
+		&rarr; The Countdown timer is opened as an overlay and starts to count down.
 4:
 	Subheader: 
-	Action: The countdown timer is opened as a full-screen overlay.
+	Action: 
 	Details: &rarr; When the timer has run down, the display begins to blink red.
 		
 5:
 	Subheader: 
-	Action: Press the ESC key to close the overlay.wieder zu schließen.
+	Action: To close the overlay when finished, hit the ESC key to close the overlay.
 	Details: >
 		The overlay is closed.	
 
 6:
 	Subheader: 
-	Action: You are back in session view..
+	Action: You are back in *Session* view.
 	Details: 			

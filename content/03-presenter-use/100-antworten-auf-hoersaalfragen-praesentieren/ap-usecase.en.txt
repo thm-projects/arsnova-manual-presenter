@@ -19,7 +19,7 @@ Steps:
 		The **Answers** tab is opened. By default, the answer statistics are not shown.
 		
 3:
-	Subheader:  Answers of the first PI round.
+	Subheader:  Answers of the first PI round
 	Action: To present the answers of the first PI round, click on the **Show** button.  
 	Details: >	
 		&rarr; The answer statistics for the current question are shown.

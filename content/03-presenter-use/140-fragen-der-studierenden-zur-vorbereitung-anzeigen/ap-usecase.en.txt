@@ -9,7 +9,7 @@ Steps:
 		
 1:
 	Subheader: 
-	Action:  Click into the Session dropdown menu in the header bar and select a session from the list of available session.
+	Action:  Click into the Session select field in the header bar and select a session from the list of available sessions.
 	Details: &rarr; The session is loaded.
 
 2:
@@ -19,7 +19,7 @@ Steps:
 	
 3:
 	Subheader: 
-	Action: In the students' pane, the students' questions are listed.
+	Action: In the *Students' pane*, the students' questions are listed.
 	Details:  A black colored question indicates that a the questions has already been viewed while red colored questions indicate questions that have not been viewed yet.
 		
 4:
@@ -31,7 +31,7 @@ Steps:
 5:
 	Subheader:  Delete Question
 	Action:>
-		To delete a question once it is answered, click on the red **x** in the upper right corner.  **Note**: You can delete questions in both opened and closed states.
+		To delete a question, click on the red **x** in the upper right corner.  **Note**: You can delete questions in both opened and closed states.
 	Details: &rarr; A dialog is opened.
 
 6:

@@ -9,102 +9,103 @@ Steps:
 		
 1:
 	Subheader: 
-	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Action: Click into the Session select field in the header bar and select a session from the list of available sessions. 
 	Details: &rarr; The session is loaded.
 
 2:
 	Subheader: 
 	Action: Go to **Mode &rarr; Assignments (JiTT)** .
-	Details: &rarr; In the teacher's pane the *Questions for preparation* are listed.
+	Details: &rarr; In the *Teacher's pane*, the *Questions for preparation* are listed.
 	
 		
 3:
 	Subheader: 
-	Action: Klicken Sie auf eine der Fragen oder auf den Reiter **Anworten**.
-	Details: 	&rarr; Der Reiter Antworten wird geöffnet. Standardmäßig wird **keine** Antwortstatistik angezeigt.
+	Action: Click on one of the questions or on the  **Answers** tab.
+	Details: 	&rarr; The *Answers* tab is opened. By default, the answer statistics are not shown. .
 		
 4:
-	Subheader:  Antworten der ersten PI-Runde
-	Action: Um die Antworten der ersten PI-Runde anzuzeigen, klicken Sie auf **Anzeigen**.  
+	Subheader:  Answers of the first PI round.
+	Action: To present the answers of the first PI round, click on the **Show** button. 
 	Details: >	
-		&rarr; Die Antwortstatistik zur aktuellen Frage wird angezeigt.
+		&rarr; The answer statistics for the current question are shown
 		
 		
 		
-		**Hinweise**
+		**Notes**
 		 	
 		 				
-		 				- Mit den Pfeilen können Sie zwischen den Fragen vor und zurück navigieren.
+		 				- Use the arrows to navigate between questions.
 		 	
-		 				- Nochmaliges Anklicken des Buttons **Anzeigen** blendet die Antworten wieder aus.
-		
+		 				- By clicking on the **Show** button you can toggle between showing and hiding the answers.
+				
 
 5:
-	Subheader: Menü Anzeigen
-	Action: Über das Menü **Anzeigen** können Sie auswählen, wie die Antworten angezeigt werden.
+	Subheader: **Show** Menu
+	Action: Use the **Show** menu to decide how answers are shown.
 	Details: >
-		Folgende Optionen sind verfügbar:
+		You can choose between the following options.
 		
 			
-			- **Antworten immer anzeigen**: Legt fest, dass die Antworten aller Fragen jeweils automatisch angezeigt werden. Wenn deaktiviert, müssen Sie zur Anzeige der Antworten für jede Frage erneut auf **Anzeigen** klicken.
+			- **Always show answers**: If activated, the answer statistics for all questions are shown automatically. If deactivated, you need to click on the **Show** button each time you open the answer tab of a question.
 			
 			
-			- **Korrekte Antworten**: Wenn diese Option aktiviert ist, werden die korrekte Antworten grün, falsche Antworten grau dargestellt. 
+			- **Show correct answers**: If this option is activated, correct answers are show in green, incorrect answers in gray.
 
 			
-			- **Vor Diskussion (1st)**: Wenn diese Option aktiviert ist, können die Antworten der ersten PI-Runde  angezeigt werden. Andernfalls werden beim Klicken auf den Button **Anzeigen** die Antworten der ersten PI-Runde nicht angezeigt.
+			- **Before Discussion (1st)**: If this option is activated, the answers of the first PI round are shown when the **Show** button is clicked.  If not, the answers of the first PI round are not shown when you click on the **Show** button.
 			
 			
-			- **Vor Diskussion (2nd)**: Wenn diese Option aktiviert ist, können die Antworten der zweiten PI-Runde angezeigt werden. Anderfalls werden beim Klicken auf den Button **Anzeigen** die Antworten der zweiten PI-Runde nicht angezeigt.
+			- **After Discussion (2nd)**: If this option is enabled, the answers of the second PI round are shown when the **Show** button is clicked.  If not, the answers of the second PI round are not shown when you click on the **Show** button.
+
 
 6:
-	Subheader: Menü Freigeben
-	Action: Über das Menü **Freigeben** können Sie festlegen, ob Fragen und/oder Antworten für die Studierenden freigegeben werden.
+	Subheader: **Release** Menu
+	Action: Use the **Release** menu to decide if questions and/or answer are released to be viewed by the students. 
 	Details: >
 	
 				
-				- **Frage**: Wenn aktiviert, ist die Frage freigegeben, d.h. die Studierenden können die Frage sehen und beantworten.
+				- **Questions**: If enabled, the question is released, i.e. the students can view and answer the question.
 
 				
-				- **Antwortstatistik**: Wenn aktiviert, können die Studierenden die Antwortstatistik einsehen.
+				- **Answer statistics**: If enabled, the students can view the answer statistics.
 	
 	
-				- **Korrekte Antworten**: Wenn aktiviert, können die Studierenden die korrekten Antworten sehen.
+				- **Correct Answers**: If enabled, the students can view the correct answers.
 
 7:
-	Subheader: Vollbildmodus einschalten
-	Action: Klicken Sie auf **Ansicht &rarr; Vollbild &rarr; Antworten auf Dozentenfragen**.
+	Subheader: View in full-screen mode
+	Action: Go to **View &rarr; Full screen &rarr; Answers to lecturer questions**.
 	Details:>
-		 &rarr; Die Antworten werden im Vollbildmodus dargestellt.
+		 &rarr; The answers are show in full-screen view.
 		 
-		 **Hinweis**: Um den Vollbildmodus zu verlassen, drücken Sie die ESC-Taste.
-		
+		 **Note**: To close full-screen mode, hit the ESC key.		
 		 
 8:
-	Subheader: Zweite PI-Runde
-	Action: Um die zweite PI-Runde zu starten, klicken Sie auf den Button **1st**.
+	Subheader: Second PI Round
+	Action: To start the second PI round, click on the **1st** button.
 	Details:>
-		 &rarr; Ein Dialogfeld wird geöffnet.
+		 &rarr; A dialog opens.
 		 
-		 **Hinweis**: Sobald Sie die zweite PI-Runde starten, werden die Antworten der ersten PI-Runde unwiderruflich gesperrt.
+		 **Note**: As soon as you start the second PI round, the answers of the first PI round are locked irrevocably.
+
 		
 	
 9:
 	Subheader: 
-	Action: Klicken Sie auf **Fortfahren**.
+	Action: Click on the **Continue** button.
 	Details: > 
-		&rarr; Die zweite PI-Runde wird gestartet.
+		&rarr; The second PI round is opened.
+
 
 10:
 	Subheader: 
-	Action: Um die Antworten anzuzeigen, klicken Sie auf **Anzeigen**.
-	Details: &rarr;  Die Antworten beider Runden werden angezeigt.
-
+	Action: To show the answers, click on the **Show** button.
+	Details: &rarr;  The answers of both PI rounds are shown.
 11:
 	Subheader: 
-	Action: Um den Vollbildmodus wieder zu verlassen, klicken Sie in die Anzeige oder drücken Sie die Taste ESC.
-	Details: &rarr; Der Normalbildmodus wird wieder angezeigt.
+	Action: To close full-screen mode, click into the window or hit the ESC key. 
+	Details: &rarr; You get back into standard view.
 12:
 	Subheader: 
 	Action: 
-	Details: Sie befinden sich wieder im Normalbildmodus.		
+	Details: You are back in standard view.		

@@ -28,11 +28,11 @@ Steps:
 	Subheader: 
 	Action: Set the time for the Countdown timer and click on the **Start** button. 
 	Details: >
-		&rarr; The Countdown timer starts.
+		&rarr; The Countdown timer is opened as an overlay and starts to count down
 5:
 	Subheader: 
-	Action: The Countdown timer is opened as a full-screen overlay over the session.
-	Details: &rarr; Once the timer has run down, the  display begins to flash red.
+	Action: 
+	Details: Once the timer has run down, the  display begins to flash red.
 		
 6:
 	Subheader: 
@@ -44,6 +44,6 @@ Steps:
 	Subheader: 
 	Action: You are back in *Session* view.
 	Details: >
-		In the next step, you can now present the answers of the first Peer Instruction round.						
+		In the next step, you can present the answers of the first Peer Instruction round.						
 	
 					
