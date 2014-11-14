@@ -9,8 +9,8 @@ Steps:
 		
 1:
 	Subheader:  Present Questions
-	Action: Select a session from the dropdown menu in the header bar.
-	Details: &rarr; The session is opened.
+	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Details: &rarr; The session is loaded.
 
 2:
 	Subheader: 

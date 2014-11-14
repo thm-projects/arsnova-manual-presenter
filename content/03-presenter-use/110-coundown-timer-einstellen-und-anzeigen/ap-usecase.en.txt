@@ -9,26 +9,31 @@ Steps:
 
 1:
 	Subheader: 
-	Action: Wählen Sie im Dropdown-Menü in der Kopfleiste eine Session aus.
-	Details: &rarr; Die Session wird angezeigt.
+	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. .
+	Details: &rarr; The session is loaded.
 2:
 	Subheader: 
-	Action: Im Publikumsbereich wird das Live-Feedback angezeigt.
+	Action: Go to  **View &rarr; Countdown-Timer**.
 	Details: >
-			
+		&rarr; The countdown timer settings dialog is opened.
+
 3:
 	Subheader: 
-	Action: Um das Live-Feedback im Vollbildmodus anzuzeigen, wählen Sie **Ansicht &rarr; Vollbild &rarr; Feedback des Publikums**.
-	Details: &rarr; Das Live-Feeback wird im Vollbildmodus angezeigt. 
-
+	Action: Set the countdown timer to the desired time and click on the **Start** button. 
+	Details: >
+		&rarr; The countdown timer starts to count down.
 4:
 	Subheader: 
-	Action:	Um wieder in die Standardansicht zu wechseln, drücken Sie die ESC-Taste oder doppellicken Sie in die Vollbildansicht.
-	Details: &rarr; Die Standardansicht wird angezeigt.
-
+	Action: The countdown timer is opened as a full-screen overlay.
+	Details: &rarr; When the timer has run down, the display begins to blink red.
+		
 5:
 	Subheader: 
-	Action:	Sie befinden jetzt wieder in der Session-Ansicht.
-	Details: 
-	
-	
+	Action: Press the ESC key to close the overlay.wieder zu schließen.
+	Details: >
+		The overlay is closed.	
+
+6:
+	Subheader: 
+	Action: You are back in session view..
+	Details: 			

@@ -9,18 +9,18 @@ Steps:
 		
 1:
 	Subheader: 
-	Action: Select a session from the dropdown menu in the header bar.
-	Details: &rarr; The session is opened and the lecturer questions are show in the lecturer pane on the tab **Lecturer Questions".
+	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Details: &rarr; The session is loaded and the available questions are listed in the teacher's pane on the tab **Questions for lecture".
 
 2:
 	Subheader: 
-	Action: Either click on one of the questions or on the tab **Answers**.
+	Action: Click on one of the questions or on the tab **Answers**.
 	Details: >
 		The tab **Answers** is opened. By default, the answer statistics are not shown.
 		
 3:
 	Subheader:  Answers of the first PI round.
-	Action: To present the answers of the first PI round, click on **View**.  
+	Action: To present the answers of the first PI round, click on **Show**.  
 	Details: >	
 		&rarr; The answer statistics for the current question are shown.
 		
@@ -31,31 +31,31 @@ Steps:
 		 				
 		 				- Use the arrows to navigate between questions.
 		 	
-		 				- Clicking on the button  **Anzeigen** toggles between showing and hiding the answers.
+		 				- Clicking on the button  **Show** toggles between showing and hiding the answers.
 		
 
 4:
-	Subheader: Menu **Anzeigen**
-	Action: Use the menu **Anzeigen** to define how answers are shown.
+	Subheader: Menu **Show**
+	Action: Use the menu **Show** to define how answers are shown.
 	Details: >
 		You can choose between the following options.
 		
 			
-			- **Always show answers**: Legt fest, dass die Antworten aller Fragen jeweils automatisch angezeigt werden. Wenn deaktiviert, müssen Sie zur Anzeige der Antworten für jede Frage erneut auf **Anzeigen** klicken.
+			- **Always show answers**: If activated, the answer statistics for all questions is shown automatically. If deactivated, you need to click on **Show** each time you open the answer tab of a question.
 			
 			
 			- **Show correct answers**: If this option is enabled, correct answers are show in green, incorrect answers in gray.
 
 			
-			- **Before Discussion (1st)**: If this option is enabled, the answers of the first PI round are shown when the button **Anzeigen** is clicked.  If not, the answers of the first PI round are not shown when you click on **Anzeigen**.
+			- **Before Discussion (1st)**: If this option is enabled, the answers of the first PI round are shown when the button **Show** is clicked.  If not, the answers of the first PI round are not shown when you click on **Show**.
 			
 			
-			- **Vor Discussion (2nd)**: If this option is enabled, the answers of the second PI round are shown when the button **Anzeigen** is clicked.  If not, the answers of the second PI round are not shown when you click on **Anzeigen**.
+			- **After Discussion (2nd)**: If this option is enabled, the answers of the second PI round are shown when the button **Show** is clicked.  If not, the answers of the second PI round are not shown when you click on **Show**.
 
 
 5:
-	Subheader: Menu **Freigeben**
-	Action: Use the menu **Freigeben** to specify if questions and/or answer are released to the students. 
+	Subheader: Menu **Release**
+	Action: Use the menu **Release** to specify if questions and/or answer are released to the students. 
 	Details: >
 	
 				
