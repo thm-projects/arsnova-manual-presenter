@@ -107,7 +107,7 @@ Steps:
 
 10:	
 	Subheader: 
-	Action: A success message confirms that the question was saved successfully. 
+	Action: A success message confirms that the question was saved. 
 	Details:	&rarr; The question is listed in the  **Questions for lecture** tab.
 
 11:

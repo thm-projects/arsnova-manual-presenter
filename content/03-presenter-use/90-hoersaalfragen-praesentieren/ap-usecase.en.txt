@@ -9,30 +9,30 @@ Steps:
 		
 1:
 	Subheader: 
-	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Action: Click into the Session select field in the header bar and select a session from the list of available sessions. 
 	Details: &rarr; The session is loaded.
 
 2:
 	Subheader: 
-	Action: All available lecture question are shown in the lecturer pane.
+	Action: All available lecture questions are listed in the *Teacher's pane*.
 	Details: > 
-		To start with the first Peer Instruction round, you can set the timer to give the students some minutes to answer the questions.
+		To start with the first Peer Instruction round, you can set the Countdown timer to give the students some minutes to think about and answer the questions.
 		
 3:
 	Subheader: Set Countdown Timer
-	Action: Click **View &rarr; Countdown-Timer**.
+	Action: Go to **View &rarr; Countdown timer**.
 	Details: >
-		&rarr; The dialog for setting the timer opens.
+		&rarr; The countdown timer settings dialog is opened.
 
 4:
 	Subheader: 
-	Action: Set the desired time for the Countdown Timer and click **Start**. 
+	Action: Set the time for the Countdown timer and click on the **Start** button. 
 	Details: >
-		&rarr; The Countdown-Timer starts.
+		&rarr; The Countdown timer starts.
 5:
 	Subheader: 
-	Action: The Countdown-Timer is displayed full window as an overlay over the session.
-	Details: &rarr; Once the timer has expired, the  display begins to flash red.
+	Action: The Countdown timer is opened as a full-screen overlay over the session.
+	Details: &rarr; Once the timer has run down, the  display begins to flash red.
 		
 6:
 	Subheader: 
@@ -42,8 +42,8 @@ Steps:
 
 7:
 	Subheader: 
-	Action: You are back in session view.
+	Action: You are back in *Session* view.
 	Details: >
-		As a next step, you can now present the answers of the first round of Peer Instruction.						
+		In the next step, you can now present the answers of the first Peer Instruction round.						
 	
 					

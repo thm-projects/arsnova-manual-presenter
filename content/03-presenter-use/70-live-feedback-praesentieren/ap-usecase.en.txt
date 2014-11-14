@@ -9,14 +9,14 @@ Steps:
 
 1:
 	Subheader: 
-	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Action: Click into the Session select field in the header bar and select a session from the list of available sessions. 
 	Details: &rarr; The session is loaded.
 
 2:
 	Subheader: 
-	Action: In the audience pane, the Live-Feedback diagram is shown.
+	Action: In the *Students' pane*, the *Live feedback* diagram is shown.
 	Details: >
-		The bar diagram shows the relation between the feedback categories. On the x-axis you see the categories or options, on the y-axis the respective number of evaluations.
+		The bar diagram shows the relation between the feedback categories. On the x-axis, you see the categories or options, and on the y-axis, the corresponding number of evaluations.
 		
 		The feedback options are the following:
 		
@@ -32,17 +32,17 @@ Steps:
 	
 3:
 	Subheader: 
-	Action: To view Live-Feedback in fullscreen mode, select  **View &rarr; Vollbild &rarr; Feedback** from the drow-down menu in the header bar.
-	Details: &rarr; Live-Feedback is show in fullscreen mode. 
+	Action: To view the *Live feedback* diagram in full-screen mode, go to  **View &rarr; Full screen &rarr; Feedback**.
+	Details: &rarr; Live feedback is shown in full-screen mode. 
 
 4:
 	Subheader: 
-	Action:	To return into standard view, hit the ESC key or double-click into the window.
-	Details: &rarr; You get back to standard view.
+	Action:	To return to default view, hit the ESC key or double-click into the window.
+	Details: &rarr; You get back to default view.
 
 5:
 	Subheader: 
-	Action:	You are back in standard session view.
+	Action:	You are back in default *Session* view.
 	Details: 
 	
 	

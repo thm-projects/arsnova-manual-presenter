@@ -150,6 +150,6 @@ Steps:
 
 22:
 	Subheader: 
-	Action: A message confirms that the session was deleted successfully.
+	Action: A message confirms that the session was deleted.
 	Details:
 	
