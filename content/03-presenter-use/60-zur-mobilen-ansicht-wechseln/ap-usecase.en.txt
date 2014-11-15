@@ -12,29 +12,29 @@ Steps:
 
 1:
 	Subheader: 
-	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Action: Click into the Session select field in the header bar and select a session from the list of available sessions. 
 	Details: &rarr; The session is loaded.
 
 2:
 	Subheader:  View as Student
-	Action: To open the session in view Student, got to **View &rarr Mobile (Student)**.
+	Action: To open the session in Student view, got to **View &rarr Mobile (Student)**.
 	Details: &rarr; ARSnova Mobile is opened in the student's role. 
 
 3:
 	Subheader:  
-	Action: The session selected in Presenter is shown in ARnova Mobile. You can now test the session, view and answer available questions etc.
+	Action: The session currently open in Presenter is shown in ARnova Mobile. You can now test the session, view and answer available questions etc.
 	Details: >
 		
 		**Note**:  Depending on the size of your browser window, ARSnova Mobile is either presented as an Overlay as shown in the screenshot, or it is opened in a new browser tab.  
 
 4:
 	Subheader:  View as Teacher
-	Action: To open the session in view Teacher, go to **View &rarr Mobile (Teacher)**.
+	Action: To open the session in Teacher view, go to **View &rarr Mobile (Teacher)**.
 	Details: &rarr; ARSnova Mobile is opened in the teacher's role. 
 
 5:
 	Subheader:  
-	Action: The session selected in Presenter is shown in ARnova Mobile. You can now view available questions or test the session.
+	Action: The session currently open in Presenter is shown in ARnova Mobile. You can now view available questions or test the session.
 	Details: >
 	
 		**Note**:  Depending on the size of your browser window, ARSnova Mobile is either presented as an Overlay as shown in the screenshot, or ARSnova Mobile is opened in a new browser tab. 
@@ -42,7 +42,7 @@ Steps:
 		
 6:
 	Subheader: Go back to Presenter
-	Action: To close the Overlay, click into the Presenter window once and the click on the **x** in the header bar of the overlay. If a tab was opened, go back to the Presenter tab in your browser.
+	Action: To close the Overlay, click into the Presenter window once and then click on the **x** in the header bar of the overlay. If a tab was opened, go back to the Presenter tab in your browser.
 	Details: 	
 
 7:

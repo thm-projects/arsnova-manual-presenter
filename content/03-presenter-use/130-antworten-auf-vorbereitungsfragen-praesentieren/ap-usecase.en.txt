@@ -1,6 +1,6 @@
 Title: Present answers to preparation questions
 ----
-URL-Key: present-answers-to-preparation-questions
+URL-Key: present-students-answers-to-preparation-questions
 ----
 Cat: JiTT
 ----
@@ -9,43 +9,103 @@ Steps:
 		
 1:
 	Subheader: 
-	Action: Auf **Hörsaal** (**Vorbereitung**) tippen
-	Details: >
-		&rarr; Sie gelangen zur Ansicht *Hörsaal* (*Vorbereitung*).
-		
-		
-		**Hinweis**: Die Zahl im grauen quadratischen Badge zeigt die Anzahl der Fragen, die Zahl im roten quadratischen Badge die Anzahl aller insgesamt abgegebenen Antworten an.
+	Action: Click into the Session select field in the header bar and select a session from the list of available sessions. 
+	Details: &rarr; The session is loaded.
+
 2:
 	Subheader: 
-	Action: Auf **Präsentationsmodus** tippen
-	Details: >
-		&rarr; Sie gelangen zur Ansicht der ersten Frage.
-		
-			
-			**Hinweis**: Mit der Wischgeste navigieren Sie zwischen den Fragen und können sich - sofern verfügbar - die Statistik zu jeder Frage ansehen.
-					
-					
-					**Bei Mausbedienung**: Um zwischen den Fragen zu navigieren, klicken Sie in die Ansicht und ziehen Sie mit gedrückter Maustaste nach links oder rechts. Alternativ klicken Sie rechts oder links der Positionspunkte oberhalb der Navigationsleiste.	
+	Action: Go to **Mode &rarr; Assignments (JiTT)** .
+	Details: &rarr; In the *Teacher's pane*, the *Questions for preparation* are listed.
+	
 		
 3:
 	Subheader: 
-	Action: Auf **Statistik**-Icon tippen
-	Details:  &rarr; Sie gelangen zur Ansicht *Statistik* der aktuellen Frage.
+	Action: Click on one of the questions or on the  **Answers** tab.
+	Details: 	&rarr; The *Answers* tab is opened. By default, the answer statistics are not shown. .
 		
 4:
-	Subheader: 
-	Action: Wenn fertig, auf **Zurück** tippen
-	Details: &rarr; Sie gelangen zurück zur *Frageansicht*.
-	
+	Subheader:  Answers of the first PI round.
+	Action: To present the answers of the first PI round, click on the **Show** button. 
+	Details: >	
+		&rarr; The answer statistics for the current question are shown
+		
+		
+		
+		**Notes**
+		 	
+		 				
+		 				- Use the arrows to navigate between questions.
+		 	
+		 				- By clicking on the **Show** button you can toggle between showing and hiding the answers.
+				
+
 5:
-	Subheader: 
-	Action: Um weitere Fragen zu präsentieren, wischen. Wenn fertig, auf **Zurück** tippen
-	Details: &rarr; Sie gelangen zurück zur Ansicht *Hörsaal* (*Vorbereitung*).		
+	Subheader: **Show** Menu
+	Action: Use the **Show** menu to decide how answers are shown.
+	Details: >
+		You can choose between the following options.
+		
+			
+			- **Always show answers**: If activated, the answer statistics for all questions are shown automatically. If deactivated, you need to click on the **Show** button each time you open the answer tab of a question.
+			
+			
+			- **Show correct answers**: If this option is activated, correct answers are show in green, incorrect answers in gray.
+
+			
+			- **Before Discussion (1st)**: If this option is activated, the answers of the first PI round are shown when the **Show** button is clicked.  If not, the answers of the first PI round are not shown when you click on the **Show** button.
+			
+			
+			- **After Discussion (2nd)**: If this option is enabled, the answers of the second PI round are shown when the **Show** button is clicked.  If not, the answers of the second PI round are not shown when you click on the **Show** button.
+
+
 6:
-	Subheader: 
-	Action: Auf **Zurück** tippen.
-	Details: &rarr; Sie gelangen zurück zur Ansicht *Start*.
+	Subheader: **Release** Menu
+	Action: Use the **Release** menu to decide if questions and/or answer are released to be viewed by the students. 
+	Details: >
+	
+				
+				- **Questions**: If enabled, the question is released, i.e. the students can view and answer the question.
+
+				
+				- **Answer statistics**: If enabled, the students can view the answer statistics.
+	
+	
+				- **Correct Answers**: If enabled, the students can view the correct answers.
+
 7:
+	Subheader: View in full-screen mode
+	Action: Go to **View &rarr; Full screen &rarr; Answers to lecturer questions**.
+	Details:>
+		 &rarr; The answers are show in full-screen view.
+		 
+		 **Note**: To close full-screen mode, hit the ESC key.		
+		 
+8:
+	Subheader: Second PI Round
+	Action: To start the second PI round, click on the **1st** button.
+	Details:>
+		 &rarr; A dialog opens.
+		 
+		 **Note**: As soon as you start the second PI round, the answers of the first PI round are locked irrevocably.
+
+		
+	
+9:
 	Subheader: 
-	Action: Sie sind zurück in der Ansicht *Start*.
-	Details:
+	Action: Click on the **Continue** button.
+	Details: > 
+		&rarr; The second PI round is opened.
+
+
+10:
+	Subheader: 
+	Action: To show the answers, click on the **Show** button.
+	Details: &rarr;  The answers of both PI rounds are shown.
+11:
+	Subheader: 
+	Action: To close full-screen mode, click into the window or hit the ESC key. 
+	Details: &rarr; You get back into standard view.
+12:
+	Subheader: 
+	Action: 
+	Details: You are back in standard view.		

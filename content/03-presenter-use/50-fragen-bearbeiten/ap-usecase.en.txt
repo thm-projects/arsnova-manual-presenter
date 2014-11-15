@@ -8,24 +8,24 @@ Steps:
 
 1:
 	Subheader: 
-	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Action: Click into the Session select field in the header bar and select a session from the list of available sessions. 
 	Details: &rarr; The session is loaded.
 
 2:
 	Subheader: 
 	Action: Go to  **Mode &rarr; Editing**.
 	Details: >
-		&rarr; You get into editing mode. 		
+		&rarr; You get into *Editing* mode. 		
 3:
 	Subheader: 
-	Action: In the lecturer pane, click one of tabs **Questions for lecture** or **Questions for preparation** depending on the type of question you want to edit. 
-	Details: &rarr; A list of all available questions is shown.	
+	Action: In the *Teacher's* pane, click on one of tabs **Questions for lecture** or **Questions for preparation** depending on the type of question you want to edit. 
+	Details: &rarr; A list of all available questions is shown in the selected tab.	
 
 4:
 	Subheader: 
 	Action: Click on the question you want to edit.
 	Details:>
-		The question is opened in the students' pane.
+		The question is opened in the *Students' pane*.
 		
 		
 		
@@ -34,10 +34,10 @@ Steps:
 	Action: Edit your changes.
 	Details: >
 		
-		**Note**: The question format cannot be changed.
+		**Note**: You cannot change the questions type or the question format.
 
 6:
 	Subheader: 
-	Action: When ready, click **Save**.	
-	Details: &rarr; If the question was saved successfully, a success message is shown.				
+	Action: When ready, click on the **Save** button.	
+	Details: &rarr; If the question was saved, a success message is shown.				
 			

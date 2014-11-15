@@ -8,11 +8,11 @@ Steps:
 
 1:
 	Subheader: Create a Session
-	Action:  In default view, go to **Mode &rarr;  Editing**
-	Details: &rarr; You get into **Editing** mode.
+	Action:  Go to **Mode &rarr;  Editing**
+	Details: &rarr; You get into *Editing* mode.
 2:
 	Subheader: 
-	Action: In the header bar, click the  **+** button.
+	Action: In the header bar, click on the  **+** button.
 	Details: &rarr; The session dialog is opened.
 
 3:
@@ -22,25 +22,25 @@ Steps:
 
 4:
 	Subheader: 
-	Action: Click **Create**.
+	Action: Click on the **Create** button.
 	Details: &rarr; The session is created and a Session-ID is generated.
 
 5:
 	Subheader: 
 	Action:  Go to **Mode &rarr; Lecture (PI)**.
-	Details: &rarr; The default view (Lecture (PI)) is opened.		
+	Details: &rarr;  The default view, *Lecture* mode (PI), is opened.		
 		
 
 6:
 	Subheader: 
-	Action: The header bar shows information about the session.
+	Action: The header bar contains important information about the session.
 	Details: >
 			
-			- Session short name in the dropdown menu
+			- Session short name in the dropdown field
 			
 			- Session-ID
 			
-			- QR-Code button (when clicked, a huge QR-Code for easy access to the session is displayed)
+			- QR-Code button (when clicked, a full-screen QR-Code for easy access to the session is displayed)
 			
 			- Name of the session
 
@@ -48,7 +48,7 @@ Steps:
 
 7:
 	Subheader: Select a Session
-	Action:  Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Action:  Click into the Session select field in the header bar and select a session from the list of available sessions. 
 	Details: >
 		 
 	
@@ -59,11 +59,11 @@ Steps:
 	Subheader: 
 	Action: The session is loaded.
 	Details:>
-		In the header bar, the session information is shown. If the students have already given feedback, the Instant Feedback diagram is displayed in the audience pane. The badge next to the name of the session shows the number of students logged in to the session.
+		The header bar shows details of the current the session. If students have already given feedback, the *Live Feedback* diagram is displayed in the students' pane. The badge next to the name of the session shows the number of students logged in to the session.
 		
 9:
 	Subheader: Manage Sessions
-	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Action: Click into the Session select field in the header bar and select a session from the list of available sessions. 
 	Details: &rarr; The session is loaded.
 
 10:
@@ -73,22 +73,23 @@ Steps:
 
 11:
 	Subheader: 
-	Action: Click on the **Session** tab in the Teacher's pane.
+	Action: Click on the **Session** tab in the *Teacher's* pane.
 	Details: &rarr; The session details are shown.	
 
 12:
 	Subheader: 
 	Action: You can now edit the session details.
 	Details:>
-		You can edit the following
+		You can edit the following details:
 			
 						
-						- Change the name and short name of the session. 
+						- To change the name and short name of the session, type a new name/short name.
 			
-					 	- Lock the session &rarr; Activate the checkbox "Lock"
+					 	- To lock the session, activate the checkbox "Lock"
 			
-						- Delete the session: Click  **Delete**.			
-						- Export Session to JSON format: Click the **Export** button.
+						- To delete the session, click  on the **Delete** button.			
+						
+						- To export the session to JSON format, click on the **Export** button.
 	
 13:
 	Subheader: 
@@ -97,51 +98,51 @@ Steps:
 
 14:
 	Subheader:  Show QR Code
-	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Action: Click into the Session select field in the header bar and select a session from the list of available sessiona. 
 	Details: &rarr; The session is loaded.
 		
 15:
 	Subheader: 
-	Action: Click on the QR code symbol in the header bar.
+	Action: Click on the **QR code** button in the header bar.
 	Details: >
 		&rarr; An overlay with a large QR code opens.
 		
 			
-			**Note**: To show the QR code in full-screen mode, go to **View &rarr; Full screen &rarr; Dashboard** and then click on the QR code symbol.
+			**Note**: To show the QR code in full-screen mode, go to **View &rarr; Full screen &rarr; Dashboard** and then click on the **QR code** button.
 					
 			
 		
 16:
 	Subheader: 
-	Action: To close the QR code overlay, click into the screen or press the ESC button.
+	Action: To close the QR code overlay, click into the screen or hit the ESC button.
 	Details:  &rarr; The QR code overlay is closed.	
 
 17:
 	Subheader: Delete Session
-	Action: Click into the Session dropdown menu in the header bar and select a session from the list of available session. 
+	Action: Click into the Session select field in the header bar and select a session from the list of available sessions. 
 	Details: &rarr; The session is loaded.
 
 18:
 	Subheader: 
 	Action: Go to **Mode &rarr; Editing**.
-	Details: &rarr; You get into **Edition** mode.
+	Details: &rarr; You get into **Editing** mode.
 
 19:
 	Subheader: 
 	Action: Click on the  **Session** tab in the Teacher's pane.
-	Details: &rarr; The session information is shown.	
+	Details: &rarr; The session details are shown.	
 
 20:
 	Subheader: 
-	Action: Click the **Delete** button.
+	Action: Click on the **Delete** button.
 	Details: &rarr; A dialog is opened.
 
 21:
 	Subheader: 
 	Action:>
-	    To confirm deleting the session, click  **Delete**.
+	    To confirm that you want to delete the session, click on the  **Delete** button.
 	    
-	    **Warning**: This cannot be undone. Once the session is deleted, all information stored in the session will be lost.
+	    **Warning**: This step cannot be undone. Once the session is deleted, all data stored in the session will be lost.
 	    
 	Details: &rarr; The session will be deleted.
 
@@ -149,6 +150,6 @@ Steps:
 
 22:
 	Subheader: 
-	Action: A message confirms that the session has been deleted successfully.
+	Action: A message confirms that the session was deleted.
 	Details:
 	

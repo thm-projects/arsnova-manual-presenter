@@ -9,28 +9,28 @@ Steps:
 		
 1:
 	Subheader:  Present Questions
-	Action: Select a session from the dropdown menu in the header bar.
-	Details: &rarr; The session is opened.
+	Action: Click into the Session select field in the header bar and select a session from the list of available sessions. 
+	Details: &rarr; The session is loaded.
 
 2:
 	Subheader: 
-	Action: In the audience pane, click on the tab **Audience Questions**. If the tab is not active, the number of new questions is shown in real time, e.g. (+1) if one new question is available. 
-	Details:  &rarr; All available audience questions are shown. 
+	Action: In the *Students' pane*, click on the tab **Questions by students**. If the tab is not active, the number of new questions is shown in the title of the tab in real time, e.g. (+1) if one new question is available. 
+	Details:  &rarr; The students' questions are listed. 
 		
 3:
 	Subheader:  Show a Question
-	Action: The questions are shown in the order in which they were asked. Questions that have not been viewed yet are shown in red. To show a question, click on it. 
-	Details: &rarr; The complete question is shown.
+	Action: The questions are listed in the order they were asked. Questions that have not been viewed yet are shown in red. To show a question, click on it. 
+	Details: &rarr; The complete question text is shown.
 			
 4:
-	Subheader:  Delete Questions
+	Subheader:  Delete a Question
 	Action:>
-		To delete a question once it was answered, click on the red **x**. **Note**: You can delete a question in both opened and closed states.
+		To delete a question, click on the red **x**. **Note**: You can delete a question in both opened and closed states.
 	Details: &rarr; A dialog opens.
 
 5:
 	Subheader: 
-	Action: Confirm the deletion of the question question by clicking on  **Delete**: &rarr; The question is deleted.	
+	Action: Confirm that you want to delete the question by clicking on  the **Delete** button. &rarr; The question is deleted.	
 
 6:
 	Subheader: 
