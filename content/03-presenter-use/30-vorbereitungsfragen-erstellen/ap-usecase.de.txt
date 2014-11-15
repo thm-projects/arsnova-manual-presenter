@@ -8,15 +8,15 @@ Steps:
 
 1:
 	Subheader: 
-	Action: Wählen Sie im Dropdown-Menü in der Kopfleiste eine Session aus.
-	Details: &rarr; Die Session wird angezeigt.
+	Action: Klicken Sie in das Session-Auswahlfeld in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
+	Details: &rarr; Die Session wird geladen.
 
 		
 2:
 	Subheader: 
-	Action: Klicken Sie auf **Modus &rarr; Bearbeitung**.
+	Action: Wählen Sie **Modus &rarr; Bearbeitung**.
 	Details: >
-		&rarr; Sie gelangen in den Modus Bearbeitung. 
+		&rarr; Sie gelangen in den Modus *Bearbeitung*. 
 
 
 3:
@@ -31,7 +31,7 @@ Steps:
 
 4:
 	Subheader: 
-	Action: Wählen Sie im Reiter "Neue Frage" im Publikumsbereich" als Fragetyp "Vorbereitung".
+	Action: Wählen Sie im Reiter *Neue Frage* im Auswahlfeld Fragetyp die Option "Vorbereitung".
 	Details: >
 
 5:
@@ -55,39 +55,39 @@ Steps:
 		In diesem Beispiel wählen Sie Einfachauswahl. Diese Fragetypen stehen zur Auswahl&#58;
 		
 				
-				- **SC**: Einfachauswahl
+				- Mehrfachauswahl
 				
-				- **MC**: Mehrfachauswahl
+				- Einfachauswahl
 				
-				- **J/N**: Ja/Nein-Frage
+				-  Ja/Nein
 				
-				- **Likert**: Likert-Skala	
-
-				- **Txt**: Freitext-Frage
+				- Freitext
+				
+				- Likert Skala	
 
 		
 		
 		Die folgenden Fragetypen können derzeit nur über ARSnova Mobile erstellt werden:		
 				
 				
-				- **Note**: Bewertung nach Schulnotensystem
+				- Note (Schulnotensystem)
 				
-				- **LK**: Lernkarte (zum Selbststudium)
+				- Lernkarte (zum Selbststudium)
 				
-				- **Planquadrat**: 
+				- Planquadrat
 		
 			
 
 7:
 	Subheader: 
 	Action:>
-		Geben Sie eine Antwortoptionen ein und klicken Sie auf **Hinzufügen**. 
+		Geben Sie eine Antwortoptionen ein und klicken Sie auf den **Hinzufügen**-Button. 
 		
 		**Hinweis**: Die folgenden Antwortmöglichkeiten variieren je nach gewähltem Fragetyp.		
 	Details:> 
 		Wiederholen Sie diesen Schritt für jede Antwortoption. 
 		
-		&rarr; Die Antwortoption wird unterhalb des Feldes angezeigt.
+		&rarr; Die Antwortoptionen werden unterhalb des Eingabefeldes angezeigt.
 
 8:	
 	Subheader: 
@@ -109,20 +109,20 @@ Steps:
 
 10:	
 	Subheader: 
-	Action: Klicken Sie auf **Erstellen**.
+	Action: Klicken Sie auf den **Erstellen**-Button.
 	Details:	&rarr; Die Frage wird gespeichert.
 
 11:	
 	Subheader: 
-	Action: Die Erfolgreichmeldung zeigt, dass die Frage gespeichert wurde. 
+	Action: Eine Erfolgreichmeldung zeigt, dass die Frage gespeichert wurde. 
 	Details:	&rarr; Die Frage wird im Dozentenbereich im Reiter **Vorbereitungsfragen** gelistet.
 
 12:
 	Subheader:
-	Action: Um weitere Fragen zu erstellen, klicken Sie auf den **+** Tab.
-	Details: &rarr; Ein neuer Frage-Tab wird geöffnet.
+	Action: Um weitere Fragen zu erstellen, klicken Sie auf den **+**-Reiter.
+	Details: &rarr; Ein neuer Frage-Reiter wird geöffnet.
 	
 13:
 	Subheader:
-	Action: Wenn Sie mehr Frage-Tabs geöffnet haben als im Publikumsbereich Platz finden, können Sie mit den Pfeilen nach rechts und links navigieren. Mit dem Pfeil nach unten öffnen Sie ein Menü, mit dem Sie ebenfalls gezielt auf einzelne Fragen zugreifen bzw. neue Fragen hinzufügen können.
+	Action: Wenn Sie mehr Frage-Reiter geöffnet haben als im Publikumsbereich Platz finden, können Sie mit den Pfeilen nach rechts und links navigieren. Mit dem Pfeil nach unten öffnen Sie ein Menü, mit dem Sie ebenfalls gezielt auf einzelne Fragen zugreifen bzw. neue Fragen hinzufügen können.
 	Details:

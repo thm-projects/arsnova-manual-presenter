@@ -4,9 +4,9 @@ URL-Key: didactic-concept
 ----
 Text:
 ARSnova implements three types of feedback between students and teachers before and during a lecture:
-	-  Just-in Time Teaching (JiTT)
-	- Peer Instruction (PI) and 
-	- Instant Feedback. 
+	-  Instant Feedback
+	- Peer Instruction (PI) 
+	- Just-in Time Teaching (JiTT)
 
 (image: feedback-loops.en.png alt: Three kinds of Feedback-Loops: Instant Feedback, Peer-Instruction and Just-in-Time-Teaching class: center)
 

@@ -29,7 +29,7 @@ Steps:
 	Subheader:
 	Action: Enter your user name and password for the service in the corresponding input fields.
 	Details:>
-		&rarr; You are redirected to the default view of Presenter, i.e. lecture mode.
+		&rarr; You are redirected to the default view of Presenter, i.e. *Lecture* mode.
 					
 3:
 	Subheader:

@@ -9,17 +9,17 @@ Steps:
 		
 1:
 	Subheader: 
-	Action: Wählen Sie im Dropdown-Menü **Session** in der Kopfleiste eine Session aus.
-	Details: &rarr; Die Session wird angezeigt.
+	Action: Klicken Sie in das Session-Auswahlfeld in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
+	Details: &rarr; Die Session wird geladen.
 
 2:
 	Subheader: 
-	Action: Wählen Sie im Dropdown-Menü **Modus &rarr; Vorbereitung (JiTT)** .
-	Details: &rarr; Der Modus Vorbereitung wird geöffnet.
+	Action: Wählen Sie  **Modus &rarr; Vorbereitung (JiTT)** .
+	Details: &rarr; Der Modus *Vorbereitung* wird geöffnet.
 	
 3:
 	Subheader: 
-	Action: Im Publikumsbereich werden die Fragen der Studierenden angezeigt.
+	Action: Im Publikumsbereich werden die Fragen der Studierenden gelistet.
 	Details:  Schwarze Fragen zeigen bereits angesehene/beantwortete Fragen an, rote Fragen zeigen neue bzw. noch nicht angesehe Fragen an.
 		
 4:
@@ -31,12 +31,12 @@ Steps:
 5:
 	Subheader:  Frage löschen
 	Action:>
-		Um die Frage zu löschen, sobald Sie sie beantwortet haben, klicken Sie auf das rote "x". **Hinweis**: Sie können Fragen sowohl im ausgeklappten als auch im eingeklappten Status löschen.
+		Um die Frage zu löschen, klicken Sie auf das rote "x". **Hinweis**: Sie können Fragen sowohl im ausgeklappten als auch im eingeklappten Status löschen.
 	Details: &rarr; Ein Dialogfeld wird geöffnet.
 
 6:
 	Subheader: 
-	Action: Bestätigen Sie das Löschen der Frage, indem Sie auf **Löschen** klicken.
+	Action: Um das Löschen der Frage zu bestätigen, klicken Sie auf den **Löschen**-Button.
 	Details: &rarr; Die Frage wird gelöscht.	
 
 7:

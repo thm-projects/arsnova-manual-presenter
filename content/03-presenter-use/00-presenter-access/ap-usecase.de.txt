@@ -1,6 +1,6 @@
 Title: An-/Abmelden
 ----
-URL-Key: am-presenter-anmelden
+URL-Key: an-presenter-anmelden
 ----
 Cat: Edit
 ----
@@ -21,7 +21,7 @@ Steps:
 					- **Facebook**: mit Facebook-Konto anmelden
 	
 	Details:>
-		&rarr; Sie gelangen auf den jeweiligen Anmeldebildschirm, hier Google.
+		&rarr; Sie gelangen auf den jeweiligen Anmeldebildschirm, hier: Google.
 	
 			
 2:
@@ -32,11 +32,11 @@ Steps:
 					
 3:
 	Subheader:
-	Action: Sie befinden sich in der Ansicht Hörsaal.
+	Action: Sie befinden sich in der Ansicht *Hörsaal*.
 	Details:>
-		 Wenn Sie unter Ihrem Konto bereits Sessions angelegt haben, können Sie nun eine <a  href="presenter-use/session-auswaehlen">Session auswählen</a>. Anderfalls müssen Sie jetzt eine neue <a  href="presenter-use/session-anlegen">Session anlegen</a>. 
+		 Wenn Sie unter dem ausgewählten Konto bereits Sessions angelegt haben, können Sie nun eine Session auswählen. Anderfalls müssen Sie zunächst eine neue <a  href="presenter-use/session-anlegen-und-verwalten">Session anlegen</a>. 
 		 
-		 **Hinweis**: Sessions werden jeweils unter dem angemeldeten Konto verwaltet, d.h. falls Sie schon einmal Sessions unter einem anderen Konto oder als Gast erstellt haben, sind diese nicht verfügbar.
+		 **Hinweis**: Sessions werden jeweils unter dem Konto verwaltet, mit dem Sie angemeldet sind, d.h. falls Sie schon einmal Sessions unter einem anderen Konto oder als Gast erstellt haben, sind diese nicht verfügbar.
 		 
 4:
 	Subheader:

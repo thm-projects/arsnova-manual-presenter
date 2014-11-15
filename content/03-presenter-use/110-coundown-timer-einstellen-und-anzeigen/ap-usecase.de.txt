@@ -9,24 +9,24 @@ Steps:
 
 1:
 	Subheader: 
-	Action: Wählen Sie im Dropdown-Menü in der Kopfleiste eine Session aus.
-	Details: &rarr; Die Session wird angezeigt.
+	Action: Klicken Sie in das Session-Auswahlfeld in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
+	Details: &rarr; Die Session wird geladen.
 
 		
 2:
 	Subheader: 
-	Action: Klicken Sie auf **Ansicht &rarr; Countdown-Timer**.
+	Action: Wählen Sie **Ansicht &rarr; Countdown-Timer**.
 	Details: >
 		&rarr; Das Dialogfeld zum Einstellen des Timers wird geöffnet.
 
 3:
 	Subheader: 
-	Action: Stellen Sie die gewünschte Zeitdauer für den Timer ein und klicken Sie auf **Starten**. 
+	Action: Stellen Sie die gewünschte Zeitdauer für den Timer ein und klicken Sie auf den**Starten**-Button. 
 	Details: >
-		&rarr; Der Countdown-Timer startet.
+		&rarr; Der Countdown-Timer wird als Overlay geöffnet und der Countdown startet.
 4:
 	Subheader: 
-	Action: Der Countdown-Timer wird bildschirmfüllend als Overlay über der Session angezeigt.
+	Action:.
 	Details: &rarr; Sobald der Timer abgelaufen ist, beginnt die Anzeige rot zu blinken.
 		
 5:

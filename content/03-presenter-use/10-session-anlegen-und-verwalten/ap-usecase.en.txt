@@ -59,7 +59,7 @@ Steps:
 	Subheader: 
 	Action: The session is loaded.
 	Details:>
-		The header bar shows details of the current the session. If students have already given feedback, the *Live Feedback* diagram is displayed in the students' pane. The badge next to the name of the session shows the number of students logged in to the session.
+		The header bar shows details of the current the session. If students have already given feedback, the *Live feedback* diagram is displayed in the students' pane. The badge next to the name of the session shows the number of students logged in to the session.
 		
 9:
 	Subheader: Manage Sessions
