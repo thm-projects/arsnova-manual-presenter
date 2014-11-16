@@ -11,22 +11,22 @@
             <span class="icon-bar"></span>
     </button>
     <div class="list-group collapse"  id="sidebar-nav">
-      <span class="category"><?php echo "Session vorbereiten" ?></span>
+      <span class="category"><?php echo l::get('session'); ?></span>
       <?php foreach($items->filterBy('cat', 'Edit') AS $item): ?> 
       <a class="<?php if($item->isActive()) { echo 'list-group-item active ';echo $item->cat(); } else { echo 'list-group-item ';echo $item->cat(); } ?>" href="<?php echo $item->url() ?>"><?php echo $item->title() ?></a>        
       <?php endforeach ?> 
       
-      <span class="category"><?php echo "Im Hörsaal: Live Feedback" ?></span>
+      <span class="category"><?php echo l::get('feedback'); ?></span>
       <?php foreach($items->filterBy('cat', 'LF') AS $item): ?> 
       <a class="<?php if($item->isActive()) { echo 'list-group-item active ';echo $item->cat(); } else { echo 'list-group-item ';echo $item->cat(); } ?>" href="<?php echo $item->url() ?>"><?php echo $item->title() ?></a>        
       <?php endforeach ?>  
 
-      <span class="category"><?php echo "Im Hörsaal: Peer Instruction" ?></span>
+      <span class="category"><?php echo l::get('pi'); ?></span>
       <?php foreach($items->filterBy('cat', 'PI') AS $item): ?> 
       <a class="<?php if($item->isActive()) { echo 'list-group-item active ';echo $item->cat(); } else { echo 'list-group-item ';echo $item->cat(); } ?>" href="<?php echo $item->url() ?>"><?php echo $item->title() ?></a>        
       <?php endforeach ?>  
 
-      <span class="category"><?php echo "Vor der Vorlesung: Just in Time Teaching" ?></span>
+      <span class="category"><?php echo l::get('jitt');?></span>
       <?php foreach($items->filterBy('cat', 'JiTT') AS $item): ?> 
       <a class="<?php if($item->isActive()) { echo 'list-group-item active ';echo $item->cat(); } else { echo 'list-group-item ';echo $item->cat(); } ?>" href="<?php echo $item->url() ?>"><?php echo $item->title() ?></a>        
       <?php endforeach ?> 

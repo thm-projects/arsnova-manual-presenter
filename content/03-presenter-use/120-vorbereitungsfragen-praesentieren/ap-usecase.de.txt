@@ -9,21 +9,21 @@ Steps:
 
 1:
 	Subheader: 
-	Action: Wählen Sie im Dropdown-Menü **Session** in der Kopfleiste eine Session aus.
-	Details: &rarr; Die Session wird angezeigt.
+	Action: Klicken Sie in das Session-Auswahlfeld in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
+	Details: &rarr; Die Session wird geladen.
 
 2:
 	Subheader: 
-	Action: Wählen Sie im Dropdown-Menü **Modus &rarr; Vorbereitung (JiTT)** .
+	Action: Wählen Sie  **Modus &rarr; Vorbereitung (JiTT)** .
 	Details:>
-		&rarr; Im Dozentenbereich werden nun die Vorbereitungsfragen angezeigt.
+		&rarr; Im Dozentenbereich werden nun die Vorbereitungsfragen gelistet.
 	
 
-		Um mit der zweiten Peer-Instruction Runde zu starten, können Sie nun den Countdown-Timer einschalten, um den Studierenden Zeit zu geben, die Fragen mit ihren Peers zu diskutieren.
+		Um mit der zweiten Peer-Instruction Runde zu starten, stellen Sie den Countdown-Timer ein, um den Studierenden Zeit zu geben, die Fragen mit ihren Peers zu diskutieren.
 		
 3:
 	Subheader: Countdown-Timer einschalten
-	Action: Klicken Sie auf **Ansicht &rarr; Countdown-Timer**.
+	Action: Wählen sie **Ansicht &rarr; Countdown-Timer**.
 	Details: >
 		&rarr; Das Dialogfeld zum Einstellen des Timers wird geöffnet.
 
@@ -31,11 +31,11 @@ Steps:
 	Subheader: 
 	Action: Stellen Sie die gewünschte Zeitdauer für den Timer ein und klicken Sie auf **Starten**. 
 	Details: >
-		&rarr; Der Countdown-Timer startet.
+		&rarr; Der Countdown-Timer wird als Overlay geöffnet und der Countdown startet.
 
 5:
 	Subheader: 
-	Action: Der Countdown-Timer wird bildschirmfüllend als Overlay über der Session angezeigt.
+	Action: 
 	Details: &rarr; Sobald der Timer abgelaufen ist, beginnt die Anzeige rot zu blinken.
 		
 6:
@@ -48,4 +48,4 @@ Steps:
 	Subheader: 
 	Action: Sie befinden sich wieder in der Session-Ansicht.
 	Details: >
-		Als nächstes können Sie nun die Antworten der zweiten Peer-Instruktion Runde präsentieren.	
+		Im nächsten Schritt können Sie die Antworten der zweiten Peer-Instruktion Runde präsentieren.	

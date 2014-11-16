@@ -12,12 +12,12 @@ Steps:
 
 1:
 	Subheader: 
-	Action: Wählen Sie im Dropdown-Menü in der Kopfleiste eine Session aus.
-	Details: &rarr; Die Session wird angezeigt.
+	Action: Klicken Sie in das Session-Auswahlfeld in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
+	Details: &rarr; Die Session wird geladen.
 
 2:
 	Subheader:  Ansicht als Student/in
-	Action: Um die Session in der Ansicht für Student/innen anzuzeigen, wählen Sie im Dropdown-Menü **Ansicht &rarr; Mobil (Student/in)**. 
+	Action: Um die Session in der Ansicht für Student/innen anzuzeigen, wählen Sie **Ansicht &rarr; Mobil (Student/in)**. 
 	Details: &rarr; ARSnova Mobile wird in der Rolle Student/in geöffnet. 
 
 3:
@@ -29,7 +29,7 @@ Steps:
 
 4:
 	Subheader:  Ansicht als Dozent/in
-	Action:  Um die Session in der Ansicht für Dozent/innen anzuzeigen, wählen Sie im Dropdown-Menü **Ansicht &rarr; Mobil (Dozent/in)**. 
+	Action:  Um die Session in der Ansicht für Dozent/innen anzuzeigen, wählen Sie **Ansicht &rarr; Mobil (Dozent/in)**. 
 	Details: &rarr; ARSnova Mobile wird in der Rolle Dozent/in geöffnet..	
 
 5:

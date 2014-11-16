@@ -63,11 +63,11 @@ Steps:
 			Currently, the following question types can only be created using ARSnova Mobile:
 				
 				
-				- **A-F**: Grade
+				- Grade
 				
-				- **FC**: Flashcard
+				- Flashcard
 				
-				- **P**: Picture Question
+				- Picture Question
 		
 6:
 	Subheader: 

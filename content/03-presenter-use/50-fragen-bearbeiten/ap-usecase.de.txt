@@ -8,17 +8,17 @@ Steps:
 
 1:
 	Subheader: 
-	Action: Wählen Sie im Dropdown-Menü in der Kopfleiste eine Session aus.
-	Details: &rarr; Die Session wird angezeigt.
+	Action: Klicken Sie in das Session-Auswahlfeld in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
+	Details: &rarr; Die Session wird geladen.
 
 2:
 	Subheader: 
-	Action: Klicken Sie auf **Modus &rarr; Bearbeitung**.
-	Details: &rarr; Sie gelangen in den Modus Bearbeitung.
+	Action: Wählen Sie **Modus &rarr; Bearbeitung**.
+	Details: &rarr; Sie gelangen in den Modus *Bearbeitung*.
 
 3:
 	Subheader: 
-	Action: Im Dozentenbereich werden die Fragen im Reiter Hörsaal bereits angezeigt. Um eine Vorbereitungsfrage zu bearbeiten, klicken Sie im auf den Reiter **Vorbereitungsfragen**.
+	Action: Im Dozentenbereich werden die Fragen im Reiter Hörsaal bereits angezeigt. Um eine Vorbereitungsfrage zu bearbeiten, klicken Sie auf den Reiter **Vorbereitungsfragen**.
 	Details: 	
 
 4:
@@ -34,15 +34,15 @@ Steps:
 	Action: Nehmen Sie die gewünschten Änderungen vor.
 	Details: >
 		
-		**Hinweis**: Das Frageformat kann nachträglich nicht geändert werden!
+		**Hinweis**: Fragetyp und Frageformat können nachträglich nicht geändert werden!
 
 6:
 	Subheader: 
-	Action: Klicken Sie auf **Speichern**.	
+	Action: Klicken Sie auf den **Speichern**-Button.	
 	Details: &rarr; Die Frage wird gespeichert.
 	
 7:
 	Subheader: 
-	Action: Zur Bestätigung, dass die Frage gespeichert wurde, erscheint eine Erfolgsmeldung.	
+	Action: Eine Erfolgsmeldung bestätigt, dass die Frage gespeichert wurde.	
 	Details: 								
 			

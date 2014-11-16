@@ -8,11 +8,11 @@ Steps:
 
 1:
 	Subheader: Session anlegen
-	Action:  Klicken Sie in der Startansicht auf **Modus &rarr;  Bearbeitung**
+	Action:  Wählen Sie **Modus &rarr;  Bearbeitung**
 	Details: &rarr; Sie gelangen in den Modus **Bearbeitung**.
 2:
 	Subheader: 
-	Action: Klicken Sie in der Kopfzeile auf den **+** Button.
+	Action: Klicken Sie in der Kopfzeile auf den **+**-Button.
 	Details: &rarr; Ein Dialogfenster wird geöffnet.
 
 3:
@@ -22,25 +22,25 @@ Steps:
 
 4:
 	Subheader: 
-	Action: Klicken Sie auf **Erstellen**.
+	Action: Klicken Sie auf den **Erstellen**-Button.
 	Details: &rarr; Die Session wird unter dem angegebenen Namen erstellt und es wird automatisch eine Session-ID generiert.
 
 5:
 	Subheader: 
-	Action: Klicken Sie auf **Modus &rarr; Hörsaal (PI)**.
+	Action: Wählen Sie **Modus &rarr; Hörsaal (PI)**.
 	Details: &rarr; Die Standardansicht (Hörsaal (PI) wird geöffnet.		
 		
 
 6:
 	Subheader: 
-	Action: In der Kopfleiste werden nun die Sessioninformationen angezeigt.
+	Action: In der Kopfleiste werden nun Informationen zur Session angezeigt.
 	Details: >
 			
-			- Sessionkürzel im Dropdown-Menü
+			- Sessionkürzel im Auswahlfeld
 			
 			- Session-ID
 			
-			- QR-Code-Symbol zur Anzeige des QR-Codes für die Teilnehmer
+			- QR-Code-Button zur Anzeige des QR-Codes für die Teilnehmer
 			
 			- Name der Session
 
@@ -48,7 +48,7 @@ Steps:
 
 7:
 	Subheader: Session auswählen
-	Action:  Klicken Sie mit der Maus in das Dropdown-Menu *Session* in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
+	Action:  Klicken Sie in das Session-Auswahlfeld in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
 	Details: >
 		 
 		 	**Hinweis**: Um die Liste einzugrenzen, geben Sie den/die ersten Buchstaben der Session oder des Sessionkürzels ein. Die Liste wird entsprechend gefiltert.
@@ -57,21 +57,21 @@ Steps:
 	Subheader: 
 	Action: Die Session wird geladen.
 	Details:>
-		In der Kopfleiste werden die Sessioninformationen angezeigt. Falls bereits Feedback zu der Session gegeben wurde, wird das Feedback im Publikumsbereich angezeigt. Im Badge neben dem Namen der Session wird die Anzahl der angemeldeten Teilnehmer angezeigt.
+		In der Kopfleiste werden Informationen zur Session angezeigt. Falls bereits Feedback zu der Session gegeben wurde, wird das Feedback im Publikumsbereich angezeigt. Im Badge neben dem Namen der Session wird die Anzahl der angemeldeten Teilnehmer angezeigt.
 		
 9:
 	Subheader: Sessions verwalten
-	Action: Klicken Sie mit der Maus in das Dropdown-Menu *Session* in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
-	Details: &rarr; Die Session wird angezeigt.
+	Action: Klicken Sie in das Session-Auswahlfeld in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
+	Details: &rarr; Die Session wird geladen.
 
 10:
 	Subheader: 
-	Action: Klicken Sie auf **Modus &rarr; Bearbeitung**.
+	Action: Wählen Sie **Modus &rarr; Bearbeitung**.
 	Details: &rarr; Sie gelangen in den Modus Bearbeitung.
 
 11:
 	Subheader: 
-	Action: Klicken Sie im <a class="poppi" href="#" tabindex="0" data-toggle="popover" title="Der Dozentenbereich befindet sich im Hauptbereich links.">Dozentenbereich</a> auf den Tab **Session**.
+	Action: Klicken Sie im Dozentenbereich auf den **Session**-Reiter.
 	Details: &rarr; Die Session-Informationen werden angezeigt.	
 
 12:
@@ -81,32 +81,32 @@ Steps:
 		Sie können
 			
 						
-						- Name und Kürzel der Session ändern
+						- Um den Namen oder das Kürzel der Session zu ändern, geben Sie einen neuen Namen/ein neues Kürzel ein.
 			
-					 	- Die Session sperren &rarr; Aktivieren Sie die Checkbox  "Sperren"
+					 	- Um die Session zu sperren, aktivieren Sie die Checkbox  "Sperren"
 			
-						- Die Session löschen: Klicken Sie auf **Löschen**"&rarr; Bestätigen Sie das Löschen im Dialogfeld. **Warnung**: Dieser Schritt kann nicht rückgängig gemacht werden!
+						- Um die Session zu löschen, klicken Sie auf den **Löschen**-Button und bestätigen Sie anschließend das Löschen im Dialogfeld. **Warnung**: Dieser Schritt kann nicht rückgängig gemacht werden!
 			
-						- Die Session im JSON-Format exportieren: Klicken Sie auf **Exportieren**.
+						- Um die Session in JSON-Format zu exportieren, klicken Sie auf den **Exportieren**-Button.
 	
 13:
 	Subheader: 
-	Action: Zum Speichern von Änderungen klicken Sie auf **Speichern**.
+	Action: Um die Änderungen zu speichern, klicken Sie auf den **Speichern**-Button.
 	Details:  &rarr; Die Einstellungen werden gespeichert.
 
 14:
 	Subheader:  QR-Code anzeigen
-	Action: Klicken Sie mit der Maus in das Dropdown-Menu *Session* in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
-	Details: &rarr; Die Session wird angezeigt.
+	Action: Klicken Sie in das Session-Auswahlfeld in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
+	Details: &rarr; Die Session wird geladen.
 		
 15:
 	Subheader: 
-	Action: Klicken Sie auf das QR-Code-Symbol in der Kopfleiste.
+	Action: Klicken Sie auf den **QR-Code**-Button in der Kopfleiste.
 	Details: >
-		&rarr; Der QR-Code der Session wird nahezu flächenfüllend angezeigt.
+		&rarr; Der QR-Code der Session wird in einem fensterfüllenden Overlay angezeigt.
 		
 			
-			**Hinweis**: Um den QR-Code im Vollbild-Modus anzuzeigen, wählen Sie zunächst **Ansicht &rarr; Vollbild  &rarr; Gesamt Arbeitsfläche** und klicken dann auf das QR-Code-Symbol.
+			**Hinweis**: Um den QR-Code im Vollbild-Modus anzuzeigen, wählen Sie **Ansicht &rarr; Vollbild  &rarr; Gesamte Arbeitsfläche** und klicken dann auf den **QR-Code**-Button.
 					
 			
 		
@@ -117,27 +117,27 @@ Steps:
 
 17:
 	Subheader: Session löschen
-	Action: Klicken Sie mit der Maus in das Dropdown-Menu *Session* in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
-	Details: &rarr; Die Session wird angezeigt.
+	Action: Klicken Sie in das Session-Auswahlfeld in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
+	Details: &rarr; Die Session wird geladen.
 
 18:
 	Subheader: 
-	Action: Klicken Sie auf **Modus &rarr; Bearbeitung**.
+	Action: Wählen Sie **Modus &rarr; Bearbeitung**.
 	Details: &rarr; Sie gelangen in den Modus Bearbeitung.
 
 19:
 	Subheader: 
-	Action: Klicken Sie im Dozentenbereich auf den Tab **Session**.
+	Action: Klicken Sie im Dozentenbereich auf den  **Session**-Reiter.
 	Details: &rarr; Die Session-Informationen werden angezeigt.	
 
 20:
 	Subheader: 
-	Action: Klicken Sie auf den Button **Löschen**.
+	Action: Klicken Sie auf den **Löschen**-Button.
 	Details: &rarr; Ein Dialogfenster wird geöffnet.
 
 21:
 	Subheader: 
-	Action: Um das Löschen der Session zu bestätigen, klicken Sie auf **Löschen**.
+	Action: Um das Löschen der Session zu bestätigen, klicken Sie auf den **Löschen**-Button.
 	Details: &rarr; Die Session wird gelöscht.	
 
 22:

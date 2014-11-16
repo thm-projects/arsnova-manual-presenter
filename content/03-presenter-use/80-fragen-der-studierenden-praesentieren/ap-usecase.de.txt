@@ -9,12 +9,12 @@ Steps:
 		
 1:
 	Subheader:  Fragen anzeigen
-	Action: Wählen Sie im Dropdown-Menü in der Kopfleiste eine Session aus.
-	Details: &rarr; Die Session wird angezeigt. 
+	Action: Klicken Sie in das Session-Auswahlfeld in der Kopfleiste und wählen Sie eine Session aus der Liste der verfügbaren Sessions aus.
+	Details: &rarr; Die Session wird geladen. 
 
 2:
 	Subheader: 
-	Action: Klicken Sie im Publikumsbereich auf den Reiter "Fragen der Studierenden". Wenn der Reiter nicht aktiv ist, wird in Echtzeit die Anzahl neu eingeganger Fragen angezeigt, z.B. "(+1)", wenn 1 neue Frage vorhanden ist.
+	Action: Klicken Sie im Publikumsbereich auf den Reiter "Fragen der Studierenden". Wenn der Reiter nicht aktiv ist, wird im Titel des Reiters in Echtzeit die Anzahl neu eingeganger Fragen angezeigt, z.B. "(+1)", wenn 1 neue Frage vorhanden ist.
 	Details:  &rarr; Alle vorhandenen Publikumsfragen werden aufgelistet. 
 		
 3:
@@ -25,12 +25,12 @@ Steps:
 4:
 	Subheader:  Frage löschen
 	Action:>
-		Um die Frage zu löschen, sobald Sie sie beantwortet haben, klicken Sie auf das rote "x". **Hinweis**: Sie können Fragen sowohl im ausgeklappten als auch im eingeklappten Status löschen.
+		Um die Frage zu löschen, klicken Sie auf das rote "x". **Hinweis**: Sie können Fragen sowohl im ausgeklappten als auch im eingeklappten Status löschen.
 	Details: &rarr; Ein Dialogfeld wird geöffnet.
 
 5:
 	Subheader: 
-	Action: Bestätigen Sie das Löschen der Frage, indem Sie auf **Löschen** klicken.
+	Action: Bestätigen Sie das Löschen der Frage, indem Sie auf den **Löschen**-Button klicken.
 	Details: &rarr; Die Frage wird gelöscht.	
 
 6:

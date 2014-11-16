@@ -11,7 +11,7 @@ Steps:
 		<ol>
 			<li markdown=1> **Kopfleiste**: Informationen zu Session und Menüs (von links nach rechts)</li><ul markdown=1>
 										
-								- Auswahlmenü für Sessions (nach Auswahl Anzeige des Sessionkürzels)
+								- Auswahlfeld für Sessions (nach Auswahl Anzeige des Sessionkürzels)
 
 								- Anzeige Session-ID
 				
@@ -21,11 +21,11 @@ Steps:
 							
 								- Badge mit Anzeige der an der Session angemeldeten Studierenden
 				
-								- Dropdown-Menü Anzeige
+								- Dropdown-Menü *Anzeige*
 							
-								- Dropdown-Menü Modus
+								- Dropdown-Menü *Modus*
 							
-								- Abmelden Button</ul>
+								- Abmelden-Button</ul>
 		
 		<li markdown=1> **Dozentenbereich**:  Anzeige von Dozentenfragen und Antworten auf Fragen</li>
 		
@@ -36,7 +36,7 @@ Steps:
 	
 2:
 	Subheader:
-	Action: Modus Hörsaal (Standardansicht beim Öffnen der Anwendung)
+	Action: Modus *Hörsaal* (Standardansicht beim Öffnen der Anwendung)
 	Details: >
 		
 			- im Dozentenbereich links:  Reiter **Hörsaalfragen**
@@ -47,7 +47,7 @@ Steps:
 
 3:
 	Subheader:
-	Action: Modus Hörsaal (Standardansicht beim Öffnen der Anwendung)
+	Action: Modus *Hörsaal* (Standardansicht beim Öffnen der Anwendung)
 	Details: >
 		
 			- im Dozentenbereich links:  Reiter **Antworten** auf Hörsaalfragen
@@ -56,7 +56,7 @@ Steps:
 	
 4:
 	Subheader:
-	Action: Modus Vorbereitung (JiTT)
+	Action: Modus *Vorbereitung* (JiTT)
 	Details:> 
 	
 		- im Dozentenbereich links:  Reiter **Vorbereitungsfragen**
@@ -65,23 +65,23 @@ Steps:
 
 5:
 	Subheader:
-	Action: Modus Vorbereitung (JiTT)
+	Action: Modus *Vorbereitung* (JiTT)
 	Details: >
 	
 			- im Dozentenbereich links:  Reiter **Antworten** auf Vorbereitungsfragen
 
 6:
 	Subheader:
-	Action: Modus Bearbeitung
+	Action: Modus *Bearbeitung*
 	Details: 	Sessions erstellen und editieren
 
 7:
 	Subheader:
-	Action: Modus Bearbeitung
+	Action: Modus *Bearbeitung*
 	Details: 	Hörsaalfragen erstellen und editieren
 
 8:
 	Subheader:
-	Action: Modus Bearbeitung
+	Action: Modus *Bearbeitung*
 	Details: 	Vorbereitungsfragen erstellen und editieren
 	

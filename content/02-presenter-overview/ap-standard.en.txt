@@ -11,7 +11,7 @@ Steps:
 		<ol>
 			<li markdown=1> **Header bar**: Session information and menus (from left to right)</li><ul markdown=1>
 										
-								- Dropdown menu Sessions (after session is selected, session short name is shown)
+								- Select field *Sessions* (after session is selected, session short name is shown)
 
 								- Session-ID
 				
@@ -36,7 +36,7 @@ Steps:
 	
 2:
 	Subheader:
-	Action: Lecture Mode(default view at start of application)
+	Action: *Lecture* Mode (default view at start of application)
 	Details: >
 		
 			- Teacher's pane on the left:  tab **Questions for lecture**
@@ -47,7 +47,7 @@ Steps:
 
 3:
 	Subheader:
-	Action: Lecture Mode (default view at startup)
+	Action: *Lecture* Mode (default view at startup)
 	Details: >
 		
 			- Teacher's pane on the left:  tab **Answers** to lecture questions
@@ -56,7 +56,7 @@ Steps:
 	
 4:
 	Subheader:
-	Action: Mode Assignments (JiTT)
+	Action: Mode *Assignments* (JiTT)
 	Details:> 
 	
 		- Teacher's pane on the left:  tab **Preparation Questions**
@@ -65,23 +65,23 @@ Steps:
 
 5:
 	Subheader:
-	Action: Mode Assignments (JiTT)
+	Action: Mode *Assignments* (JiTT)
 	Details: >
 	
 			- Teacher's pane on the left:  tag **Answers** to *Questions for preparation*
 
 6:
 	Subheader:
-	Action: Editing Mode
+	Action: *Editing* Mode
 	Details: 	Create and edit sessions
 
 7:
 	Subheader:
-	Action: Editing Mode
+	Action: *Editing* Mode
 	Details: 	Create and edit lecture questions
 
 8:
 	Subheader:
-	Action: Editing Mode
+	Action: *Editing* Mode
 	Details: 	Create and edit preparation questions
 	
