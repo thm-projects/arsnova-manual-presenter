@@ -27,11 +27,11 @@
 		endforeach; ?>
 	</div>
 	<!-- Controls -->
-	<a class="left carousel-control" href="#carousel-example-<?php echo $page->uid();?>" data-slide="prev">
-		<span class="glyphicon glyphicon-chevron-left"></span>
+	<a class="left carousel-control hidden" href="#carousel-example-<?php echo $page->uid();?>" data-slide="prev">
+	<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span><span class="sr-only"><?php l::get('prev'); ?></span>
 	</a>
-	<a class="right carousel-control" href="#carousel-example-<?php echo $page->uid();?>" data-slide="next">
-		<span class="glyphicon glyphicon-chevron-right"></span>
-	</a>		
+	<a class="right carousel-control hidden" href="#carousel-example-<?php echo $page->uid();?>" data-slide="next">
+	<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span><span class="sr-only"><?php l::get('next'); ?></span>
+	</a>	
 </div>
 	

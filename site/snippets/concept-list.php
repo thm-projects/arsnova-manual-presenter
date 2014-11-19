@@ -27,12 +27,5 @@
 			<?php $count++;
 		endforeach; ?>
 	</div>
-	<!-- Controls -->
-	<a class="left carousel-control hidden" href="#carousel-example-<?php echo $page->uid();?>" data-slide="prev">
-	<span class="glyphicon glyphicon-chevron-left"></span>
-	</a>
-	<a class="right carousel-control hidden" href="#carousel-example-<?php echo $page->uid();?>" data-slide="next">
-	<span class="glyphicon glyphicon-chevron-right"></span>
-	</a>
 </div>
 

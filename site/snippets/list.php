@@ -25,7 +25,7 @@
 								<?php endif; ?>
 							</div>
 
-						<img class="screenshot" src="<?php echo $image->url() ?>" alt="<?php echo $page->url-key() . "-" . $count ?>" /> 
+						<img class="screenshot" src="<?php echo $image->url() ?>" alt="<?php echo $page->url_key() . "-" . $count ?>" /> 
 						
 					</div>
 					<?php 

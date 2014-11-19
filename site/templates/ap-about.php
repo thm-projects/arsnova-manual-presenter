@@ -4,8 +4,9 @@
     <?php echo kirbytext($page->slogan()); ?>
   	</div>
 </div>
-<section class="container">
+<section class="container" role="main">
 	<?php echo kirbytext($page->text()); ?>
 </section>
-<a class="to-top" href="#top"><span class="glyphicon glyphicon-chevron-up"></a>
+<a class="to-top" href="#top"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span><span class="sr-only"><?php echo l::get('totop'); ?></span></a>
+
 <?php snippet('ap-footer') ?>

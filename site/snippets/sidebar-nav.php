@@ -3,7 +3,7 @@
   if ($page) : 
 ?>
 <div class="col-xs-12 col-sm-3 col-md-3" id="sidebar">
-  <div class="sidebar"  role="navigation">
+  <div class="sidebar"  role="navigation"  aria-label="<?php echo l::get('chapter_nav'); ?>">
     <button type="button" class="sidebar-toggle" data-toggle="collapse" data-target="#sidebar-nav">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>

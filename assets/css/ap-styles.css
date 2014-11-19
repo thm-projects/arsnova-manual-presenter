@@ -2,6 +2,7 @@ html,
 body {
   height: 100%;
   font-family: "pt-sans", "Helvetica-Neue", sans-serif;
+  font-size: 16px;
 /* The html and body elements cannot have any padding or margin. */
 }
 body {
@@ -74,6 +75,11 @@ ul li {
 /*
  ::: Navigation :::
  ----------------------------------------------------------*/
+.navbar {
+  height: 87px;
+  box-shadow: 0px 0px 2px 2px rgba(230,230,230,0.85);
+  border: none;
+}
 .navbar-default .navbar-nav>li>a.active {
   color: #80ba24;
 }
@@ -115,7 +121,7 @@ ul li {
 .nav>li:last-child>a.active:before {
   color: #80ba24;
 }
-@media screen and (max-width:900px) {
+@media screen and (max-width: 900px) {
   .nav>li>a {
     font-size: 110%;
   }
@@ -184,7 +190,7 @@ nav.switch-page {
 /*
 ::: Main Content :::
 ----------------------------------------------------------*/
-section {
+main {
   padding: 80px 0 25px 0;
 }
 .container {

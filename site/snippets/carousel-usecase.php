@@ -1,8 +1,6 @@
 <?php 
 	$langCurrent=c::get('lang.current');	
 ?>
-
-<?php echo "Ich bin das carousel-usecase snippet" ;?>
 <div id="carousel-example-<?php echo $page->uid();?>" class="carousel slide" data-interval="false">
 	<!-- Wrapper for slides -->
 	<div class="toggle-temp carousel-inner">
@@ -18,7 +16,7 @@
 			while ($step <= $imageCount) {
 				foreach($images as $image) :?>
 					<div class="item <?php if ($count == 1): echo 'active'; endif;?>">
-						<img class="screenshot" src="<?php echo $image->url() ?>" alt="<?php echo $image->title() ?>" /> 
+						<img class="screenshot" src="<?php echo $image->url() ?>" alt="<?php echo $page->url_key() . "-" . $count ?>" /> 
 						<?php if($steps) :?>
 							<div class="carousel-caption">
 								<?php if($steps[$count]['Subheader'] != ""): ?>
@@ -36,10 +34,10 @@
 			}?>
 	</div>
 	<!-- Controls -->
-	<a class="left carousel-control" href="#carousel-example-<?php echo $page->uid();?>" data-slide="prev">
-	<span class="glyphicon glyphicon-chevron-left"></span>
+	<a class="left carousel-control hidden" href="#carousel-example-<?php echo $page->uid();?>" data-slide="prev">
+	<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span><span class="sr-only"><?php l::get('prev'); ?></span>
 	</a>
-	<a class="right carousel-control" href="#carousel-example-<?php echo $page->uid();?>" data-slide="next">
-	<span class="glyphicon glyphicon-chevron-right"></span>
+	<a class="right carousel-control hidden" href="#carousel-example-<?php echo $page->uid();?>" data-slide="next">
+	<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span><span class="sr-only"><?php l::get('next'); ?></span>
 	</a>
 </div>
