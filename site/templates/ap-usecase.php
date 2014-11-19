@@ -1,5 +1,5 @@
 <?php snippet('ap-header');?>
-<main class="" role="main">
+<main class="" role="main" id="maincontent">
 	<div class="container toggle-carousel">
 		<?php snippet('switch-page'); ?>
 		<button type="button" class="btn template"><?php echo l::get('ansicht'); ?></button>
@@ -17,7 +17,7 @@
 						} ?>	
 			</div>	
 		</div>
-		<a class="to-top" href="#top"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span><span class="sr-only"><?php echo l::get('totop'); ?></span></a>
+		<a class="to-top" href="#maincontent"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span><span class="sr-only"><?php echo l::get('totop'); ?></span></a>
 
 	</div>		
 </main>

@@ -1,5 +1,5 @@
     </div><!-- close #wrap -->
-    <footer class="footer" id="footer" role="contentinfo">
+    <footer class="footer" id="footer" role="">
         <div class="footer-container">
             <?php echo kirbytext($site->copyright()) ?>
             <ul class="apps">

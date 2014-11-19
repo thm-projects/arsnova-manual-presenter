@@ -20,6 +20,7 @@
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
   <?php echo css('assets/css/ap-styles.css') ?>
 </head>
-<body id="<?php echo $page->uid() ?>"> 
+<body id="<?php echo $page->uid() ?>">
+<a href="#maincontent" class="sr-only"><?php echo l::get('skipToMaincontent'); ?></a> 
   <div id="wrap">
     <?php snippet ('ap-menu'); ?>

@@ -10,5 +10,6 @@ l::set('prev', 'zurück ');
 l::set('prevpage', 'vorherige Seite');
 l::set('nextpage', 'nächste Seite');
 l::set('chapter_nav', 'Kapitelnavigation');
+l::set('skipToMaincontent', 'Zu Hauptinhalt springen');
 
 ?>
