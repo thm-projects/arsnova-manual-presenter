@@ -8,7 +8,7 @@
 				<span class="icon-bar" aria-hidden="true"></span>
 				<span class="icon-bar" aria-hidden="true"></span>
 			</button>
-			 <a class="navbar-brand" href="<?php echo url() ?>"> <img id="logo" src="<?php echo url('assets/images/arsnova.svg') ?>" alt="<?php echo html($site->title()) ?>" width="188" height="37"/>
+			 <a class="navbar-brand" href="<?php echo url() ?>"><span class="sr-only">ARSnova</span><span class="icon-radar" aria-hidden="true"></span><span class="icon-ars" aria-hidden="true"></span><span class="icon-nova" aria-hidden="true"></span> <!--img id="logo" src="<?php echo url('assets/images/arsnova.svg') ?>" alt="<?php echo html($site->title()) ?>" width="188" height="37"/-->
 	    	<h1><?php echo ($site->title()) ?></h1></a>
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
