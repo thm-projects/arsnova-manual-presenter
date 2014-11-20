@@ -17,7 +17,7 @@
   <meta name="robots" content="index, follow" />
   <script type="text/javascript" src="//use.typekit.net/mvb4rvk.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
   <?php echo css('assets/css/ap-styles.css') ?>
 </head>
 <body id="<?php echo $page->uid() ?>">

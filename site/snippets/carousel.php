@@ -4,7 +4,6 @@
 	$images = $page->images()->filterBy('title', '*=', $langCurrent . '_');
 	$count = 1; //helper variable
 	$steps = yaml($page->steps());
-	$slideTo = $count-1;
 ?>
 <div id="carousel-example-<?php echo $page->uid();?>" class="carousel slide" data-interval="false" data-wrap="true">
 	<!-- Wrapper for slides -->
@@ -27,10 +26,8 @@
 							<?php endif; ?>
 						</div>
 				</div>
-				<?php $count++; 
-					$image=$images->next();
-			endforeach;
-		?>
+				<?php $count++; $image=$images->next();
+			endforeach;?>
 	</div>
 	<!-- Controls -->
 	<a class="left carousel-control" href="#carousel-example-<?php echo $page->uid();?>" data-slide="prev">

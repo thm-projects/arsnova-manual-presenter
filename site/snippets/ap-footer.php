@@ -13,7 +13,8 @@
     echo js('https://code.jquery.com/jquery.js');
     //echo js('assets/js/jquery.stickit.min.js');
     echo js('assets/js/jquery.cookie.js');
-    echo js('//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js');
+    echo js('//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js');
+
 ?>
 <script>
     $('.template').click(function(){
