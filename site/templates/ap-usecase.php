@@ -6,7 +6,6 @@
 		<div class="row">
 			<?php snippet('sidebar-nav'); ?>
 			<div class="col-xs-12 col-sm-9">
-				
 				<h1><?php echo html($page->title()); ?></h1>
 				<?php echo kirbytext($page->text());
 						if(cookie::get('view') == 'carousel') { 

@@ -24,15 +24,12 @@
 									<div><?php echo markdown($step['Details']) ?></div>
 								<?php endif; ?>
 							</div>
-
 						<img class="screenshot" src="<?php echo $image->url() ?>" alt="<?php echo $page->url_key() . "-" . $count ?>" /> 
-						
 					</div>
 					<?php 
 						$count++; 
 						$image=$images->next(); 	
-				endforeach; 
-			?>
+				endforeach; ?>
 	</div>
 	<!-- Controls -->
 	<a class="left carousel-control hidden" href="#carousel-example-<?php echo $page->uid();?>" data-slide="prev">
