@@ -1,14 +1,14 @@
 <?php $home = $pages->find('home');?>
-<nav class="navbar navbar-default navbar-fixed-top">
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation" aria-label="main navigation">
 	<div class="container-fluid">
-		<div class="navbar-header">
+		<div class="navbar-header" role="banner">
 			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
 				<span class="sr-only">Toggle navigation</span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
+				<span class="icon-bar" aria-hidden="true"></span>
+				<span class="icon-bar" aria-hidden="true"></span>
+				<span class="icon-bar" aria-hidden="true"></span>
 			</button>
-			 <a class="navbar-brand" href="<?php echo url() ?>"> <img id="logo" src="<?php echo url('assets/images/arsnova.svg') ?>" alt="<?php echo html($site->ptitle()) ?>" />
+			 <a class="navbar-brand" href="<?php echo url() ?>"> <img id="logo" src="<?php echo url('assets/images/arsnova.svg') ?>" alt="<?php echo html($site->title()) ?>" width="188" height="37"/>
 	    	<h1><?php echo ($site->title()) ?></h1></a>
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">

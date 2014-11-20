@@ -1,11 +1,10 @@
 <?php 
-	snippet('header');
- 	snippet('menu');
+	snippet('ap-header');
 ?>
-<section class="container">
+<main class="container" role="main">
   <article>
     <h1><?php echo html($page->title()); ?></h1>
     <?php echo kirbytext($page->text()); ?>
   </article>
-</section>
-<?php snippet('footer'); ?>
+</main>
+<?php snippet('ap-footer'); ?>

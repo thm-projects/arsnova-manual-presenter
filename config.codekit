@@ -1,0 +1,4471 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "18027",
+"files": {
+	"\/assets\/css\/ap-styles.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/ap-styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/css\/ap-styles.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/assets\/css\/ap-styles.styl",
+		"outputAbbreviatedPath": "\/assets\/css\/ap-styles.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/assets\/images\/arsnova.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8589,
+		"inputAbbreviatedPath": "\/assets\/images\/arsnova.png",
+		"outputAbbreviatedPath": "\/assets\/images\/arsnova.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2853,
+		"inputAbbreviatedPath": "\/assets\/images\/favicon.png",
+		"outputAbbreviatedPath": "\/assets\/images\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/Logo_4c_official_V1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123394,
+		"inputAbbreviatedPath": "\/assets\/images\/Logo_4c_official_V1.png",
+		"outputAbbreviatedPath": "\/assets\/images\/Logo_4c_official_V1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/jquery.cookie.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.cookie.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.cookie-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/jquery.stickit.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/jquery.stickit.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/min\/jquery.stickit.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/content\/01-presenter-concepts\/de_1000-lf.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124792,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1000-lf.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1000-lf.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/de_1010-lf.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 121917,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1010-lf.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1010-lf.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/de_1020-pi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 132902,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1020-pi.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1020-pi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/de_1030-pi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163710,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1030-pi.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1030-pi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 143801,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 117065,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/de_1060-ARSnova-Brochure-v2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48747,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1060-ARSnova-Brochure-v2.jpg",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/de_1060-ARSnova-Brochure-v2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/en_1000-lf.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30040,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1000-lf.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1000-lf.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/en_1010-lf.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26272,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1010-lf.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1010-lf.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/en_1020-pi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26272,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1020-pi.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1020-pi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/en_1030-pi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34853,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1030-pi.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1030-pi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18959,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34853,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/en_1060-ARSnova-Brochure-v2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48747,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1060-ARSnova-Brochure-v2.jpg",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/en_1060-ARSnova-Brochure-v2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/feedback-loops.de.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21219,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/feedback-loops.de.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/feedback-loops.de.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/01-presenter-concepts\/feedback-loops.en.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18438,
+		"inputAbbreviatedPath": "\/content\/01-presenter-concepts\/feedback-loops.en.png",
+		"outputAbbreviatedPath": "\/content\/01-presenter-concepts\/feedback-loops.en.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33954,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31101,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43437,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27405,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35049,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/de_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26845,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1060.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/de_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35130,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1070.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/de_1080.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27598,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1080.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/de_1080.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31882,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/en_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29773,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1020.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37045,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20667,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28464,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/en_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22876,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1060.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/en_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29135,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1070.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/02-presenter-overview\/en_1080.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22899,
+		"inputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1080.png",
+		"outputAbbreviatedPath": "\/content\/02-presenter-overview\/en_1080.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/00-presenter-access\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42516,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/00-presenter-access\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15460,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/00-presenter-access\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14726,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/00-presenter-access\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28781,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/00-presenter-access\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46687,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/00-presenter-access\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37791,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/00-presenter-access\/en_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10982,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/en_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/en_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/00-presenter-access\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14483,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/00-presenter-access\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14813,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/00-presenter-access\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39496,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/00-presenter-access\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22926,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30722,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31059,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31398,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28567,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20807,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26249,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1080.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38140,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1080.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1080.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1090.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26249,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1090.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1090.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39377,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1100.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1110.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37990,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1110.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1110.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1120.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28172,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1120.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1120.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1130.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28960,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1130.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1130.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1140.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26249,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1140.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1140.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37517,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1150.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1160.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22880,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1160.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1160.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1170.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26249,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1170.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1170.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1180.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39315,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1180.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1180.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1190.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37219,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1190.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1190.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1200.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28270,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1200.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1200.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1210.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31433,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1210.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1210.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1220.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29225,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1220.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/de_1220.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31097,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38046,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34162,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36575,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36917,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29249,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32892,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1080.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54684,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1080.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1080.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1090.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33187,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1090.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1090.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56016,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1100.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1110.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47128,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1110.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1110.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1120.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36929,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1120.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1120.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1130.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37767,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1130.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1130.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1140.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23045,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1140.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1140.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55364,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1150.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1160.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26874,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1160.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1160.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1170.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32892,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1170.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1170.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1180.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56711,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1180.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1180.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1190.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46400,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1190.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1190.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1200.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37234,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1200.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1200.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1210.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35581,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1210.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1210.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1220.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36590,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1220.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/10-session-anlegen-und-verwalten\/en_1220.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25723,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37215,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38973,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45321,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44330,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43870,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47484,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1080.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94733,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1080.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1080.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1090.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 107971,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1090.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/de_1090.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29138,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48665,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47668,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49101,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62875,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59552,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46169,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1080.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45327,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1080.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1080.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1090.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57751,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1090.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/100-antworten-auf-hoersaalfragen-praesentieren\/en_1090.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17958,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27073,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23365,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19326,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22830,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27234,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/de_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32437,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58553,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47558,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33476,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35427,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48463,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/110-coundown-timer-einstellen-und-anzeigen\/en_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19394,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25294,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 350771,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 329550,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 317842,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 317796,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 317139,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/de_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32437,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39308,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43119,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34699,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19572,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23866,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42194,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/120-vorbereitungsfragen-praesentieren\/en_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19394,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25294,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24941,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24716,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32648,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30492,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34389,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1080.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14608,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1080.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1080.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1090.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17668,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1090.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1090.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8403,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1100.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1110.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16085,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1110.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1110.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1120.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32232,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1120.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/de_1120.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32437,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55288,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42494,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41978,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50257,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47469,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48607,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1080.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27961,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1080.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1080.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1090.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22838,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1090.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1090.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9801,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1100.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1110.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31835,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1110.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1110.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1120.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47422,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1120.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/130-antworten-auf-vorbereitungsfragen-praesentieren\/en_1120.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18230,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23690,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23346,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26936,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25455,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23714,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21087,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/de_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29138,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42309,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46869,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49219,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29851,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36662,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/140-fragen-der-studierenden-zur-vorbereitung-anzeigen\/en_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25623,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22159,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27109,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31596,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32862,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31449,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35175,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1080.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34852,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1080.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1080.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1090.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35211,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1090.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1090.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47955,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1100.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1110.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37122,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1110.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1110.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1120.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40619,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1120.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/de_1120.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32437,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24378,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27636,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30748,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32934,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31160,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35313,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1080.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34923,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1080.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1080.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1090.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34144,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1090.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1090.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46538,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1100.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1110.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39123,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1110.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1110.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1120.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42940,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1120.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/20-hoersaalfragen-erstellen\/en_1120.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22765,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32208,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37347,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27020,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28044,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29618,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31978,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1080.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33621,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1080.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1080.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1090.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33853,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1090.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1090.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33998,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1100.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1110.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39120,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1110.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1110.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1120.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28560,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1120.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1120.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1130.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32163,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1130.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/de_1130.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32437,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41305,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46737,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35431,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36517,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36448,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39060,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1080.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42317,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1080.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1080.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1090.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42170,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1090.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1090.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42926,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1100.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1110.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56074,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1110.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1110.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1120.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38344,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1120.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1120.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1130.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43332,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1130.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/30-vorbereitungsfragen-erstellen\/en_1130.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25636,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32553,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36928,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46233,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45414,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45664,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49439,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/de_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1110.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29138,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1110.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1110.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1120.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37960,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1120.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1120.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1130.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43222,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1130.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1130.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1140.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43461,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1140.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1140.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1150.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50154,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1150.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1150.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1160.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51308,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1160.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1160.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1170.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51695,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1170.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/50-fragen-bearbeiten\/en_1170.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26291,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34018,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33538,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33968,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37608,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37672,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 31544,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/de_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32437,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43448,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58056,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44279,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61095,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60720,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40445,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/60-zur-mobilen-ansicht-wechseln\/en_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26291,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38098,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42187,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15538,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38098,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32437,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55413,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55616,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37546,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43879,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/70-live-feedback-praesentieren\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25980,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37608,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 39556,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45121,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 41040,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37156,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/de_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29138,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51781,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 51628,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57019,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48972,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 44698,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/80-fragen-der-studierenden-praesentieren\/en_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26020,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37341,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34925,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33282,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25968,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34126,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37167,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/de_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1010.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 32437,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1010.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1010.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1020.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49623,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1020.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1020.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1030.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53279,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1030.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1030.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1040.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47666,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1040.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1040.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1050.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 33476,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1050.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1050.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1060.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35427,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1060.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1060.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1070.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48463,
+		"inputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1070.png",
+		"outputAbbreviatedPath": "\/content\/03-presenter-use\/90-hoersaalfragen-praesentieren\/en_1070.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/AudiMax.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8.36912e+06,
+		"inputAbbreviatedPath": "\/content\/AudiMax.png",
+		"outputAbbreviatedPath": "\/content\/AudiMax.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/home\/00-audimax.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 167158,
+		"inputAbbreviatedPath": "\/content\/home\/00-audimax.jpg",
+		"outputAbbreviatedPath": "\/content\/home\/00-audimax.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/home\/01-AudiMax.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 221147,
+		"inputAbbreviatedPath": "\/content\/home\/01-AudiMax.jpg",
+		"outputAbbreviatedPath": "\/content\/home\/01-AudiMax.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/home\/AudiMax.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.93506e+06,
+		"inputAbbreviatedPath": "\/content\/home\/AudiMax.png",
+		"outputAbbreviatedPath": "\/content\/home\/AudiMax.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/home\/feedback-loops.de.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21219,
+		"inputAbbreviatedPath": "\/content\/home\/feedback-loops.de.png",
+		"outputAbbreviatedPath": "\/content\/home\/feedback-loops.de.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/content\/home\/feedback-loops.en.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18438,
+		"inputAbbreviatedPath": "\/content\/home\/feedback-loops.en.png",
+		"outputAbbreviatedPath": "\/content\/home\/feedback-loops.en.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/defaults.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/defaults.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/cache.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/cache.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/files.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/files.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/helpers.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/helpers.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/kirby.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/kirby.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/load.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/load.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/obj.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/obj.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/pages.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/pages.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/pagination.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/pagination.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/site.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/site.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/template.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/template.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/uri.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/uri.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/lib\/variables.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/lib\/variables.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/modals\/mbstring.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/modals\/mbstring.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/modals\/troubleshoot.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/modals\/troubleshoot.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/parsers\/defaults.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/parsers\/defaults.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/parsers\/kirbytext.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/parsers\/kirbytext.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/parsers\/markdown.extra.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/parsers\/markdown.extra.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/parsers\/markdown.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/parsers\/markdown.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/parsers\/smartypants.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/parsers\/smartypants.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/parsers\/yaml.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/parsers\/yaml.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/kirby\/system.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/kirby\/system.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"outputAbbreviatedPath": "\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/config\/config.arsnova.eu.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/config\/config.arsnova.eu.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/config\/config.localhost.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/config\/config.localhost.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/config\/config.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/config\/config.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/config\/config.presenter.cloudcontrolled.com.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/config\/config.presenter.cloudcontrolled.com.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/languages\/de.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/languages\/de.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/languages\/en.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/languages\/en.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/plugins\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/plugins\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/plugins\/kirbytext.extended.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/plugins\/kirbytext.extended.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/plugins\/remove_ptags.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/plugins\/remove_ptags.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/ap-footer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/ap-footer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/ap-header.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/ap-header.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/ap-menu.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/ap-menu.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/carousel-usecase.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/carousel-usecase.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/carousel.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/carousel.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/concept-carousel.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/concept-carousel.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/concept-list.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/concept-list.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/list-usecase.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/list-usecase.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/list.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/list.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/sidebar-nav.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/sidebar-nav.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/snippets\/switch-page.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/snippets\/switch-page.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/templates\/ap-about.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/ap-about.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/templates\/ap-concepts.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/ap-concepts.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/templates\/ap-standard.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/ap-standard.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/templates\/ap-use.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/ap-use.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/templates\/ap-usecase.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/ap-usecase.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/site\/templates\/default.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/site\/templates\/default.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Sonja Broda",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "arsnova-manual-presenter",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "pencil_yellow"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 1,
+	"slimLogicless": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptNoResolve": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}

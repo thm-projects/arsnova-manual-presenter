@@ -6,7 +6,9 @@ Text:
 ARSnova implementiert drei Arten  der Rückkopplung  zwischen Studenten und Dozenten vor und während einer Veranstaltung: 
 
 - Instant Feedback
+
 - Peer Instruction (PI) 
+
 - Just-in Time Teaching (JiTT)
 
 (image: feedback-loops.de.png alt: Drei Feedback-Loops: Instant Feedback, Peer-Instruction und Just-in-Time-Teaching class: center)

@@ -14,7 +14,7 @@
 			$image=$images->first();
 			foreach($steps as $step) :?>
 				<div class="item <?php if ($count == 1): echo 'active'; endif;?>">
-					<img class="screenshot" src="<?php echo $image->url() ?>" alt="<?php echo $page->url-key() . "-" . $count ?>" /> 
+					<img class="screenshot" src="<?php echo $image->url() ?>" alt="<?php echo $page->url_key() . "-" . $count ?>" /> 
 						<div class="carousel-caption">
 							<?php if($step['Subheader'] != ""): ?>
 								<h3><?php echo ($step['Subheader']) ?></h3>
