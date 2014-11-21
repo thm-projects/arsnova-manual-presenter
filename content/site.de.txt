@@ -1,7 +1,5 @@
 Title: Presenter Handbuch
 ----
-Meta_Title: Presenter Manual
-----
 Author: Sonja Broda
 ----
 Description:  ARSnova Presenter ist eine Dozenten-Applikation zum innovativen Audience Response System ARSnova, entwickelt von Studenten des Fachbereichs MNI der Technischen Hochschule Mittelhessen zur Qualitätssicherung in der Lehre.

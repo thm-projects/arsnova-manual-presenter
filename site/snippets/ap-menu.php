@@ -1,4 +1,6 @@
-<?php $home = $pages->find('home');?>
+<?php $home = $pages->find('home');
+$brandItems = explode(' ', $site->title());
+?>
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation" aria-label="main navigation">
 	<div class="container-fluid">
 		<div class="navbar-header" role="banner">
@@ -8,8 +10,13 @@
 				<span class="icon-bar" aria-hidden="true"></span>
 				<span class="icon-bar" aria-hidden="true"></span>
 			</button>
-			 <a class="navbar-brand" href="<?php echo url() ?>"><span class="sr-only">ARSnova</span><span class="icon-radar" aria-hidden="true"></span><span class="icon-ars" aria-hidden="true"></span><span class="icon-nova" aria-hidden="true"></span> <!--img id="logo" src="<?php echo url('assets/images/arsnova.svg') ?>" alt="<?php echo html($site->title()) ?>" width="188" height="37"/-->
-	    	<h1><?php echo ($site->title()) ?></h1></a>
+			<a class="navbar-brand" href="<?php echo url() ?>"><span class="icon-logo-radar" aria-hidden="true">radar</span><span class="icon-logo-ars">ars</span><span class="icon-logo-nova">nova</span>
+		    	<h1>
+		    		<?php foreach($brandItems as $item) : ?>
+		    			<span><?php echo $item; ?></span>
+		     		<?php endforeach ?>
+		    	</h1>
+		    </a>
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
@@ -23,6 +30,6 @@
 				<?php endforeach ?>
 			</ul>
 		</div><!-- /.navbar-collapse -->
-		<a id="app" <?php echo ($p->isOpen()) ? ' class="active"' : '' ?> href="https://arsnova.eu/presenter">Presenter</a>
+		<a id="app" <?php echo ($p->isOpen()) ? ' class="active"' : '' ?> href="https://arsnova.eu/presenter"><span class="sr-only"><?php echo ('goto'); ?></span>Presenter</a>
 	</div><!-- /.container-fluid -->
 </nav>

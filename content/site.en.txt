@@ -1,6 +1,4 @@
-Title: <span>Presenter</span><span> Manual</span>
-----
-Meta_Title: Presenter Manual
+Title: Presenter Manual
 ----
 Author: Sonja Broda
 ----

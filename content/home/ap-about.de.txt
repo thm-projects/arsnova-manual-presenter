@@ -42,7 +42,7 @@ ARSnova Presenter ist wie die ARSnova Webapp unter einer Open Source Lizenz verf
 - [ARSnova Blog](http://arsnova.eu/blog)
 - [ARSnova Handbuch](http://arsnova.eu/manual)
 - [ARSnova Helpdesk](http://arsnova.eu/blog/faq-2/)
-- [ARSnova Broschüre (engl.)](https://arsnova.eu/blog/wp-content/blogs.dir/4/files/2014/07/ARSnova-Brochure-v2.pdf)
+- [ARSnova Broschüre ](https://arsnova.eu/blog/wp-content/blogs.dir/4/files/2014/11/ARSnova-Produktprospekt-v31.pdf)
 - [ARSnova Overlay](https://arsnova.eu/overlay/)
 
 
