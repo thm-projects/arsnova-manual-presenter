@@ -44,7 +44,7 @@ c::set('url', '/');
  
 */
 
-c::set('url', 'https://arsnova.eu/arsnova-manual-presenter');
+c::set('url', false);
 
 
 /*

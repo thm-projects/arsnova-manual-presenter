@@ -7,7 +7,7 @@
 ?> 
 <html lang="<?php echo $langCurrent; ?>">
 <head>
-  <title><?php echo html($page->title()) ?> | <?php echo html($site->meta_title()) ?></title>
+  <title><?php echo html($page->title()) ?> | <?php echo html($site->title()) ?></title>
   <link rel="shortcut icon" href="<?= url('assets/images/favicon.png') ?>" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="apple-mobile-web-app-capable" content="yes" />

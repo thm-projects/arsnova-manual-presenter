@@ -32,7 +32,7 @@ More information:
 
 - [ARSnova Blog](http://arsnova.eu/blog)
 - [ARSnova Helpdesk](http://arsnova.eu/blog/faq-2/)
-- [ARSnova Brochure (engl.)](https://arsnova.eu/blog/wp-content/blogs.dir/4/files/2014/07/ARSnova-Brochure-v2.pdf)
+- [ARSnova Brochure (engl.)](https://arsnova.eu/blog/wp-content/blogs.dir/4/files/2014/09/ARSnova-Brochure-v2.pdf)
 - [ARSnova Overlay](https://arsnova.eu/overlay/)
 ----
 

@@ -11,17 +11,17 @@ Steps:
 		<ol>
 			<li markdown=1> **Kopfleiste**: Informationen zu Session und Menüs (von links nach rechts)</li><ul markdown=1>
 										
-								- Auswahlfeld für Sessions (nach Auswahl Anzeige des Sessionkürzels)
+						- Auswahlfeld für Sessions (nach Auswahl Anzeige des Sessionkürzels)
 
-								- Anzeige Session-ID
+						- Anzeige Session-ID
 				
-								- Button zur Anzeige eines QR-Codes (kann mit dem Smartphone eingelesen werden)
+						- Button zur Anzeige eines QR-Codes (kann mit dem Smartphone eingelesen werden)
 				
-								- Name der Session
+						- Name der Session
 							
-								- Badge mit Anzeige der an der Session angemeldeten Studierenden
+						- Badge mit Anzeige der an der Session angemeldeten Studierenden
 				
-								- Dropdown-Menü *Anzeige*
+						- Dropdown-Menü *Anzeige*
 							
 								- Dropdown-Menü *Modus*
 							

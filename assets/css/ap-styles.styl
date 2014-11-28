@@ -12,7 +12,7 @@ body
 	height 100%
 	font()
 	font-size 16px
-	/* The html and body elements cannot have any padding or margin. */
+	
 
 body
 	position relative
@@ -99,6 +99,8 @@ ul li
 .navbar-default
 	background-color #fff;
 
+.navbar-collapse
+	background #ffffff;
 .nav.navbar-nav
 	margin 0 2% 0 0
 	float right
@@ -107,11 +109,18 @@ ul li
 	padding 10px 15px 0
 	&>span
 		font-size 1.6em
-	&>span.icon-ars
-			color secondColor
-	&>span.icon-radar  
-	&>span.icon-nova
-			color brandColor
+	&>span.icon-logo-ars
+		color secondColor
+		content 'ars'
+	&>span.icon-logo-radar  
+	&>span.icon-logo-nova
+		color brandColor
+	&>span.icon-logo-radar
+		content 'radar'
+		margin-right -0.2em
+	&>span.icon-logo-nova
+		content 'nova'			
+			
 	h1
 		margin-bottom 0.2em
 		font-weight 300

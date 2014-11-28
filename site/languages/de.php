@@ -11,5 +11,5 @@ l::set('prevpage', 'vorherige Seite');
 l::set('nextpage', 'nächste Seite');
 l::set('chapter_nav', 'Kapitelnavigation');
 l::set('skipToMaincontent', 'Zu Hauptinhalt springen');
-
+l::set('goto', 'Zurück zu');
 ?>
