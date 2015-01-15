@@ -71,7 +71,7 @@ RewriteBase /subfolder
  
 */
 
-c::set('subfolder', 'arsnova-manual-presenter');
+c::set('subfolder', false);
 
 
 /*
